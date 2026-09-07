@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+seaborn>=0.12
+matplotlib>=3.7
+missingno>=0.5.2
+openpyxl>=3.1
+jupyter>=1.0
+

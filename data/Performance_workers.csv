@@ -1,0 +1,1001 @@
+,Nombre,Edad,Ciudad,Puntuacion,Comentarios
+0,Trabajador_01,29,,92,Buen trabajo
+1,Trabajador_02,53,Medellín,78,Sin comentarios
+2,Trabajador_03,21,Cali,92,Excelente
+3,Trabajador_02,22,,78,Excelente
+4,Trabajador_02,54,Barranquilla,,Excelente
+5,Trabajador_05,25,Medellín,90,Sin comentarios
+6,Trabajador_03,59,Cali,,A mejorar
+7,Trabajador_03,45,Barranquilla,78,Sin comentarios
+8,Trabajador_03,48,Barranquilla,90,
+9,Trabajador_02,26,Medellín,85,Sin comentarios
+10,,46,Bogotá,85,Excelente
+11,Trabajador_03,31,Medellín,92,Buen trabajo
+12,Trabajador_02,57,Cali,78,Sin comentarios
+13,Trabajador_05,58,Barranquilla,78,Sin comentarios
+14,Trabajador_01,39,Medellín,85,Excelente
+15,Trabajador_05,28,Bogotá,,Buen trabajo
+16,Trabajador_01,40,Medellín,90,Buen trabajo
+17,Trabajador_02,18,,,
+18,Trabajador_04,54,Bogotá,,Sin comentarios
+19,Trabajador_01,38,Cali,85,Buen trabajo
+20,Trabajador_05,43,Barranquilla,85,Buen trabajo
+21,Trabajador_02,53,Medellín,85,A mejorar
+22,Trabajador_01,40,Bogotá,92,A mejorar
+23,Trabajador_04,18,,,
+24,Trabajador_04,57,Bogotá,78,
+25,Trabajador_03,32,,90,Buen trabajo
+26,Trabajador_03,38,Cali,92,Excelente
+27,Trabajador_05,26,Barranquilla,78,Sin comentarios
+28,Trabajador_01,26,Cali,,
+29,Trabajador_01,27,Medellín,85,Excelente
+30,Trabajador_03,43,Bogotá,,
+31,Trabajador_01,58,,90,Excelente
+32,Trabajador_01,52,,92,Sin comentarios
+33,Trabajador_04,42,Bogotá,92,Sin comentarios
+34,Trabajador_03,43,Bogotá,90,A mejorar
+35,Trabajador_02,28,Medellín,78,Excelente
+36,Trabajador_03,55,Cali,78,A mejorar
+37,Trabajador_02,19,,92,Excelente
+38,Trabajador_04,24,Medellín,92,A mejorar
+39,Trabajador_05,35,Cali,85,Sin comentarios
+40,Trabajador_01,44,Medellín,78,
+41,Trabajador_04,51,,90,A mejorar
+42,Trabajador_01,44,Bogotá,78,Excelente
+43,Trabajador_05,34,Bogotá,85,Excelente
+44,Trabajador_05,41,Cali,92,Sin comentarios
+45,Trabajador_04,42,Barranquilla,92,Excelente
+46,Trabajador_05,24,Cali,85,Buen trabajo
+47,Trabajador_02,23,Barranquilla,90,
+48,Trabajador_05,41,Medellín,92,A mejorar
+49,Trabajador_01,50,,,
+50,Trabajador_01,46,,92,Sin comentarios
+51,Trabajador_01,39,Barranquilla,,A mejorar
+52,Trabajador_01,43,,85,A mejorar
+53,Trabajador_02,45,Bogotá,85,Buen trabajo
+54,,38,Barranquilla,92,Sin comentarios
+55,Trabajador_04,24,Cali,78,Excelente
+56,Trabajador_01,34,Bogotá,,Buen trabajo
+57,Trabajador_05,37,Bogotá,90,Buen trabajo
+58,Trabajador_01,58,Cali,92,
+59,Trabajador_05,37,Bogotá,90,
+60,Trabajador_05,39,Barranquilla,92,
+61,Trabajador_01,45,,78,Buen trabajo
+62,Trabajador_02,57,Bogotá,78,Excelente
+63,Trabajador_05,24,Barranquilla,78,A mejorar
+64,Trabajador_05,18,Medellín,78,
+65,Trabajador_01,49,Barranquilla,85,Excelente
+66,Trabajador_05,30,,85,Sin comentarios
+67,Trabajador_05,47,Barranquilla,,
+68,Trabajador_01,40,Cali,90,A mejorar
+69,Trabajador_01,36,,92,Sin comentarios
+70,Trabajador_04,49,Medellín,92,Sin comentarios
+71,Trabajador_02,47,Cali,85,A mejorar
+72,Trabajador_02,46,Barranquilla,92,
+73,Trabajador_05,46,,85,Buen trabajo
+74,Trabajador_02,47,Medellín,,A mejorar
+75,Trabajador_05,33,Cali,90,A mejorar
+76,Trabajador_04,57,Medellín,,A mejorar
+77,Trabajador_01,36,Barranquilla,78,Sin comentarios
+78,Trabajador_01,35,Medellín,78,Excelente
+79,Trabajador_01,18,Bogotá,78,Buen trabajo
+80,Trabajador_02,31,Cali,,
+81,Trabajador_04,19,Medellín,92,
+82,Trabajador_02,45,Barranquilla,90,Excelente
+83,Trabajador_02,47,Barranquilla,78,A mejorar
+84,Trabajador_04,55,Medellín,78,Buen trabajo
+85,Trabajador_04,21,Barranquilla,78,
+86,Trabajador_04,18,,90,
+87,Trabajador_04,25,,78,A mejorar
+88,Trabajador_01,46,,90,Excelente
+89,Trabajador_03,56,Bogotá,78,Buen trabajo
+90,Trabajador_03,20,Medellín,,Excelente
+91,Trabajador_04,49,Bogotá,,Excelente
+92,Trabajador_03,27,Barranquilla,90,
+93,Trabajador_03,27,Bogotá,,Buen trabajo
+94,Trabajador_04,36,Barranquilla,90,
+95,Trabajador_03,51,Barranquilla,,
+96,Trabajador_02,50,Cali,,Buen trabajo
+97,Trabajador_05,40,,90,Sin comentarios
+98,Trabajador_05,45,Barranquilla,92,
+99,Trabajador_04,49,Cali,,Sin comentarios
+100,Trabajador_01,24,,78,Buen trabajo
+101,Trabajador_04,46,Barranquilla,92,
+102,,25,Barranquilla,90,Excelente
+103,Trabajador_05,18,Bogotá,92,Buen trabajo
+104,Trabajador_04,20,Bogotá,85,A mejorar
+105,Trabajador_02,41,,85,Sin comentarios
+106,Trabajador_03,40,Barranquilla,,Buen trabajo
+107,Trabajador_01,25,Medellín,,Buen trabajo
+108,Trabajador_03,54,Bogotá,78,
+109,Trabajador_03,20,,92,
+110,Trabajador_04,50,Barranquilla,85,
+111,Trabajador_03,45,Barranquilla,,A mejorar
+112,Trabajador_02,25,Medellín,92,
+113,Trabajador_03,51,,,Buen trabajo
+114,Trabajador_04,52,Barranquilla,,
+115,Trabajador_02,49,,85,Excelente
+116,Trabajador_05,41,Medellín,85,
+117,Trabajador_03,31,,,A mejorar
+118,Trabajador_04,49,Medellín,90,Excelente
+119,Trabajador_05,33,Bogotá,,Buen trabajo
+120,Trabajador_05,21,,,Buen trabajo
+121,Trabajador_01,54,Medellín,78,Sin comentarios
+122,Trabajador_02,38,Cali,78,Excelente
+123,Trabajador_03,31,Bogotá,78,Sin comentarios
+124,Trabajador_04,48,Bogotá,90,Excelente
+125,Trabajador_01,35,Bogotá,90,Excelente
+126,Trabajador_02,24,Cali,,A mejorar
+127,Trabajador_01,27,Cali,78,Sin comentarios
+128,Trabajador_02,24,Barranquilla,90,A mejorar
+129,Trabajador_02,50,Medellín,85,Excelente
+130,Trabajador_03,40,Barranquilla,,Buen trabajo
+131,Trabajador_02,38,Medellín,92,Excelente
+132,Trabajador_01,36,Cali,,A mejorar
+133,Trabajador_02,36,Cali,92,Sin comentarios
+134,Trabajador_03,53,Barranquilla,78,Sin comentarios
+135,Trabajador_03,46,,92,A mejorar
+136,Trabajador_01,35,Barranquilla,78,Sin comentarios
+137,Trabajador_05,19,Medellín,85,
+138,Trabajador_05,18,Barranquilla,92,Buen trabajo
+139,Trabajador_02,22,Bogotá,,Buen trabajo
+140,Trabajador_04,37,Medellín,78,Buen trabajo
+141,Trabajador_02,28,Medellín,,Sin comentarios
+142,Trabajador_01,59,,90,Sin comentarios
+143,Trabajador_01,19,Cali,78,Excelente
+144,Trabajador_01,20,Medellín,92,Excelente
+145,Trabajador_01,40,Cali,78,Buen trabajo
+146,Trabajador_01,29,Barranquilla,,
+147,Trabajador_03,37,Bogotá,85,Excelente
+148,Trabajador_05,22,,78,Excelente
+149,Trabajador_01,54,Cali,92,Sin comentarios
+150,Trabajador_04,55,Medellín,90,
+151,Trabajador_04,47,Cali,85,Buen trabajo
+152,Trabajador_04,26,Medellín,90,Excelente
+153,Trabajador_04,51,Cali,78,
+154,Trabajador_03,52,Medellín,,
+155,Trabajador_04,39,Barranquilla,,Buen trabajo
+156,Trabajador_01,41,Medellín,92,
+157,Trabajador_02,34,Medellín,,
+158,Trabajador_04,27,Bogotá,85,
+159,Trabajador_03,47,Medellín,,Excelente
+160,Trabajador_03,40,Bogotá,92,Buen trabajo
+161,Trabajador_04,49,,78,
+162,Trabajador_02,34,Bogotá,78,
+163,Trabajador_04,34,Barranquilla,,Excelente
+164,Trabajador_03,31,Bogotá,90,Buen trabajo
+165,Trabajador_05,26,,78,Sin comentarios
+166,Trabajador_01,57,Barranquilla,,Excelente
+167,Trabajador_03,19,Cali,92,Buen trabajo
+168,Trabajador_04,42,Cali,,
+169,Trabajador_01,56,Bogotá,78,Buen trabajo
+170,Trabajador_04,26,Bogotá,92,Buen trabajo
+171,Trabajador_04,39,,,Buen trabajo
+172,Trabajador_05,21,,85,Sin comentarios
+173,Trabajador_01,43,Medellín,92,Buen trabajo
+174,Trabajador_01,46,,85,Sin comentarios
+175,Trabajador_05,51,Medellín,90,
+176,Trabajador_03,40,Barranquilla,92,Sin comentarios
+177,Trabajador_04,54,Bogotá,85,
+178,Trabajador_02,28,Barranquilla,78,
+179,Trabajador_04,23,,78,Sin comentarios
+180,Trabajador_04,35,Barranquilla,90,Excelente
+181,Trabajador_03,38,Barranquilla,92,A mejorar
+182,Trabajador_04,59,Barranquilla,92,Buen trabajo
+183,Trabajador_05,53,,92,A mejorar
+184,Trabajador_05,58,Barranquilla,90,Buen trabajo
+185,Trabajador_01,55,Medellín,92,Buen trabajo
+186,Trabajador_02,51,,78,
+187,Trabajador_04,34,Barranquilla,85,Buen trabajo
+188,Trabajador_04,54,,78,Buen trabajo
+189,Trabajador_03,42,Cali,78,Sin comentarios
+190,Trabajador_05,55,Medellín,85,A mejorar
+191,Trabajador_02,29,Barranquilla,78,Sin comentarios
+192,Trabajador_01,40,Cali,90,Buen trabajo
+193,Trabajador_05,59,Cali,85,
+194,Trabajador_01,39,,78,Sin comentarios
+195,Trabajador_03,38,Cali,,Sin comentarios
+196,Trabajador_03,44,Medellín,78,Excelente
+197,Trabajador_04,48,Medellín,90,Buen trabajo
+198,Trabajador_02,23,Bogotá,92,
+199,Trabajador_01,44,Medellín,78,Sin comentarios
+200,Trabajador_05,57,Cali,92,Sin comentarios
+201,Trabajador_03,51,Medellín,,
+202,Trabajador_04,29,,78,Buen trabajo
+203,Trabajador_04,24,Bogotá,85,Excelente
+204,Trabajador_01,27,Cali,92,Sin comentarios
+205,Trabajador_03,34,Bogotá,,Excelente
+206,Trabajador_02,43,Cali,85,A mejorar
+207,Trabajador_03,38,,85,Buen trabajo
+208,Trabajador_01,,Bogotá,85,A mejorar
+209,Trabajador_01,19,Barranquilla,85,A mejorar
+210,Trabajador_03,18,Cali,78,A mejorar
+211,Trabajador_01,53,Barranquilla,78,Buen trabajo
+212,Trabajador_03,43,Bogotá,78,Buen trabajo
+213,Trabajador_05,46,Barranquilla,,
+214,Trabajador_03,38,Barranquilla,,Excelente
+215,Trabajador_03,28,Bogotá,,Excelente
+216,Trabajador_01,57,,90,
+217,Trabajador_01,28,Barranquilla,,
+218,Trabajador_04,53,Barranquilla,78,A mejorar
+219,Trabajador_04,56,,78,
+220,Trabajador_05,57,Barranquilla,90,Sin comentarios
+221,Trabajador_04,52,Barranquilla,90,
+222,Trabajador_03,51,Barranquilla,,
+223,Trabajador_01,41,Medellín,,Sin comentarios
+224,Trabajador_04,39,,90,Sin comentarios
+225,Trabajador_04,22,Barranquilla,85,Sin comentarios
+226,Trabajador_05,50,,78,Sin comentarios
+227,Trabajador_05,53,Cali,85,A mejorar
+228,Trabajador_03,37,Cali,78,Sin comentarios
+229,Trabajador_01,36,Barranquilla,78,A mejorar
+230,Trabajador_05,52,,90,A mejorar
+231,Trabajador_04,34,,90,Sin comentarios
+232,Trabajador_01,51,,85,Excelente
+233,Trabajador_01,26,Medellín,78,Sin comentarios
+234,Trabajador_04,43,Cali,85,Sin comentarios
+235,Trabajador_05,19,,92,Sin comentarios
+236,Trabajador_04,26,,85,Excelente
+237,Trabajador_01,26,Medellín,,Buen trabajo
+238,Trabajador_02,57,Medellín,85,Buen trabajo
+239,Trabajador_02,34,,,A mejorar
+240,Trabajador_03,18,Bogotá,,A mejorar
+241,Trabajador_04,42,,,Excelente
+242,Trabajador_04,57,,92,
+243,Trabajador_03,59,Medellín,85,Buen trabajo
+244,Trabajador_03,42,Medellín,85,A mejorar
+245,Trabajador_03,56,,92,Buen trabajo
+246,Trabajador_01,52,,78,Excelente
+247,Trabajador_04,20,,90,Excelente
+248,Trabajador_01,54,Medellín,85,
+249,Trabajador_03,47,,90,
+250,Trabajador_04,55,,92,Excelente
+251,Trabajador_01,51,Barranquilla,78,A mejorar
+252,Trabajador_01,,Bogotá,78,Buen trabajo
+253,Trabajador_03,36,Cali,78,Sin comentarios
+254,Trabajador_04,54,Bogotá,92,
+255,Trabajador_03,34,Barranquilla,,Sin comentarios
+256,Trabajador_04,27,Cali,,A mejorar
+257,Trabajador_02,29,,90,
+258,Trabajador_05,33,Barranquilla,,Sin comentarios
+259,Trabajador_05,41,,,A mejorar
+260,Trabajador_05,36,Medellín,78,Buen trabajo
+261,Trabajador_03,25,Barranquilla,78,A mejorar
+262,Trabajador_02,48,Medellín,90,
+263,Trabajador_04,38,Barranquilla,85,Excelente
+264,Trabajador_01,34,Barranquilla,90,Buen trabajo
+265,Trabajador_04,40,Medellín,90,Sin comentarios
+266,Trabajador_01,54,Cali,92,
+267,Trabajador_04,33,Bogotá,92,Excelente
+268,Trabajador_02,23,,90,A mejorar
+269,Trabajador_01,25,Barranquilla,90,Excelente
+270,Trabajador_03,42,,90,
+271,Trabajador_04,35,Medellín,,
+272,Trabajador_04,42,,92,
+273,Trabajador_01,29,Medellín,90,A mejorar
+274,Trabajador_03,32,,78,Excelente
+275,Trabajador_03,43,Bogotá,78,
+276,Trabajador_02,58,Bogotá,,
+277,Trabajador_03,43,Bogotá,,Sin comentarios
+278,Trabajador_03,49,Bogotá,85,Sin comentarios
+279,Trabajador_03,27,Bogotá,85,Buen trabajo
+280,Trabajador_05,33,Bogotá,85,
+281,Trabajador_02,24,Medellín,,Sin comentarios
+282,Trabajador_04,34,Barranquilla,,Excelente
+283,Trabajador_01,40,,,A mejorar
+284,Trabajador_04,43,Bogotá,78,Excelente
+285,Trabajador_02,38,Medellín,,A mejorar
+286,Trabajador_01,39,Medellín,78,Sin comentarios
+287,Trabajador_02,24,Medellín,85,Buen trabajo
+288,Trabajador_03,31,Barranquilla,85,Excelente
+289,Trabajador_01,32,,85,Excelente
+290,Trabajador_03,,Barranquilla,90,Excelente
+291,Trabajador_04,26,Cali,90,A mejorar
+292,Trabajador_04,25,Medellín,92,Sin comentarios
+293,Trabajador_01,40,Cali,92,Excelente
+294,Trabajador_01,46,Bogotá,92,Excelente
+295,Trabajador_02,35,Bogotá,90,Buen trabajo
+296,Trabajador_02,48,Barranquilla,90,Buen trabajo
+297,Trabajador_03,47,,92,Sin comentarios
+298,Trabajador_01,56,Cali,92,Sin comentarios
+299,Trabajador_04,52,,,
+300,Trabajador_02,35,Barranquilla,92,Buen trabajo
+301,Trabajador_02,59,Bogotá,,
+302,Trabajador_04,56,,78,A mejorar
+303,Trabajador_02,34,,90,
+304,Trabajador_03,31,Bogotá,92,Excelente
+305,Trabajador_01,48,Cali,90,
+306,Trabajador_04,41,Bogotá,90,Sin comentarios
+307,Trabajador_01,52,,90,A mejorar
+308,Trabajador_02,51,Cali,78,Excelente
+309,Trabajador_02,20,,85,
+310,Trabajador_04,54,Bogotá,92,A mejorar
+311,Trabajador_03,57,,85,A mejorar
+312,Trabajador_05,43,Barranquilla,85,Excelente
+313,Trabajador_04,40,,85,
+314,Trabajador_05,56,Medellín,90,A mejorar
+315,Trabajador_05,32,Barranquilla,,A mejorar
+316,Trabajador_03,21,Cali,90,Buen trabajo
+317,Trabajador_05,46,Barranquilla,90,A mejorar
+318,Trabajador_05,39,Cali,85,Buen trabajo
+319,Trabajador_03,42,Cali,90,
+320,Trabajador_05,30,Barranquilla,85,
+321,Trabajador_05,35,Cali,,
+322,Trabajador_05,50,Cali,92,Sin comentarios
+323,Trabajador_04,33,Medellín,85,
+324,Trabajador_04,59,,,A mejorar
+325,Trabajador_04,19,,92,Excelente
+326,Trabajador_03,52,Medellín,78,Buen trabajo
+327,Trabajador_02,59,Barranquilla,85,Sin comentarios
+328,Trabajador_05,51,Bogotá,85,
+329,Trabajador_05,47,Bogotá,78,
+330,Trabajador_03,30,Bogotá,78,Excelente
+331,Trabajador_05,30,Medellín,85,Excelente
+332,Trabajador_04,35,Medellín,78,Sin comentarios
+333,Trabajador_02,49,Cali,90,Buen trabajo
+334,Trabajador_01,49,Bogotá,,
+335,Trabajador_05,52,Barranquilla,92,Sin comentarios
+336,Trabajador_04,56,Barranquilla,92,A mejorar
+337,Trabajador_01,46,Bogotá,90,A mejorar
+338,Trabajador_02,46,Bogotá,78,Sin comentarios
+339,Trabajador_01,33,Bogotá,,
+340,Trabajador_04,27,Medellín,78,Sin comentarios
+341,Trabajador_01,47,Medellín,85,
+342,Trabajador_03,42,Medellín,92,Excelente
+343,Trabajador_01,56,,78,Sin comentarios
+344,Trabajador_05,37,Barranquilla,,
+345,Trabajador_05,22,Barranquilla,85,Sin comentarios
+346,Trabajador_03,18,Cali,90,Sin comentarios
+347,Trabajador_04,47,Medellín,90,
+348,Trabajador_05,20,,,
+349,Trabajador_02,31,,85,Buen trabajo
+350,Trabajador_05,47,Barranquilla,92,Sin comentarios
+351,Trabajador_05,,Medellín,78,A mejorar
+352,Trabajador_04,35,Cali,85,Sin comentarios
+353,Trabajador_01,54,Medellín,90,Sin comentarios
+354,Trabajador_05,42,Bogotá,,
+355,Trabajador_03,18,Medellín,,Sin comentarios
+356,Trabajador_01,32,Bogotá,78,Sin comentarios
+357,Trabajador_02,26,Bogotá,,A mejorar
+358,Trabajador_04,32,Cali,,
+359,Trabajador_02,41,Barranquilla,85,Sin comentarios
+360,Trabajador_01,21,,92,Excelente
+361,Trabajador_01,29,Bogotá,78,Buen trabajo
+362,Trabajador_01,54,Medellín,85,A mejorar
+363,Trabajador_02,54,Barranquilla,92,Sin comentarios
+364,Trabajador_01,23,Barranquilla,85,Excelente
+365,Trabajador_02,56,,85,Sin comentarios
+366,Trabajador_01,41,Barranquilla,,Sin comentarios
+367,Trabajador_03,28,Cali,92,
+368,Trabajador_01,30,Bogotá,78,
+369,Trabajador_02,51,,78,
+370,Trabajador_05,42,Cali,92,Excelente
+371,Trabajador_01,24,Medellín,,Sin comentarios
+372,Trabajador_05,21,Bogotá,90,Buen trabajo
+373,Trabajador_03,25,Barranquilla,85,A mejorar
+374,Trabajador_04,37,Bogotá,,
+375,Trabajador_03,46,Medellín,92,
+376,Trabajador_01,27,,85,Sin comentarios
+377,Trabajador_05,51,,78,Sin comentarios
+378,Trabajador_05,43,,90,Excelente
+379,Trabajador_02,58,Barranquilla,78,Excelente
+380,Trabajador_05,20,Cali,92,
+381,Trabajador_02,23,Cali,85,Sin comentarios
+382,Trabajador_04,22,Bogotá,92,Buen trabajo
+383,Trabajador_01,22,Barranquilla,85,A mejorar
+384,Trabajador_02,40,,,Sin comentarios
+385,Trabajador_04,26,,90,Sin comentarios
+386,Trabajador_05,52,,,Excelente
+387,Trabajador_05,37,Medellín,,A mejorar
+388,Trabajador_04,59,,92,
+389,Trabajador_05,52,,90,Sin comentarios
+390,Trabajador_04,35,Barranquilla,85,
+391,Trabajador_02,34,Cali,,Sin comentarios
+392,Trabajador_02,41,Medellín,78,
+393,Trabajador_04,20,Cali,85,A mejorar
+394,Trabajador_02,49,Barranquilla,92,Excelente
+395,Trabajador_02,52,,,A mejorar
+396,Trabajador_02,55,Cali,,Buen trabajo
+397,Trabajador_03,30,,,Excelente
+398,Trabajador_01,42,,90,A mejorar
+399,Trabajador_05,26,Bogotá,85,Buen trabajo
+400,Trabajador_03,21,Cali,92,Sin comentarios
+401,Trabajador_02,31,Cali,90,Sin comentarios
+402,Trabajador_04,54,,78,
+403,Trabajador_02,51,Barranquilla,92,Excelente
+404,Trabajador_01,28,Bogotá,92,Sin comentarios
+405,Trabajador_02,58,,92,Excelente
+406,Trabajador_04,20,Medellín,,Sin comentarios
+407,Trabajador_01,45,Medellín,92,
+408,Trabajador_02,46,Bogotá,85,A mejorar
+409,Trabajador_01,26,Barranquilla,92,
+410,Trabajador_05,20,,,Buen trabajo
+411,Trabajador_05,42,Cali,92,Sin comentarios
+412,Trabajador_02,51,Bogotá,78,Buen trabajo
+413,Trabajador_01,29,Barranquilla,78,Buen trabajo
+414,Trabajador_04,59,Cali,,Excelente
+415,Trabajador_02,26,Medellín,85,Sin comentarios
+416,Trabajador_05,32,Medellín,85,Buen trabajo
+417,Trabajador_05,57,Cali,90,A mejorar
+418,Trabajador_02,42,Bogotá,,Buen trabajo
+419,Trabajador_01,22,Medellín,92,A mejorar
+420,Trabajador_05,28,,,Excelente
+421,Trabajador_01,51,Cali,90,Buen trabajo
+422,Trabajador_05,41,Cali,,
+423,Trabajador_05,32,Medellín,,Excelente
+424,Trabajador_03,55,Bogotá,90,A mejorar
+425,Trabajador_05,25,,85,Excelente
+426,Trabajador_04,22,Bogotá,92,Buen trabajo
+427,Trabajador_02,43,Barranquilla,90,Sin comentarios
+428,Trabajador_02,35,Barranquilla,78,Sin comentarios
+429,Trabajador_01,23,Medellín,85,A mejorar
+430,Trabajador_05,54,Medellín,78,A mejorar
+431,Trabajador_04,30,Medellín,85,Sin comentarios
+432,Trabajador_01,45,Barranquilla,92,A mejorar
+433,Trabajador_03,22,Bogotá,92,Excelente
+434,Trabajador_01,30,Bogotá,,
+435,Trabajador_01,34,Medellín,78,
+436,Trabajador_05,57,,85,Excelente
+437,Trabajador_03,49,Bogotá,92,
+438,Trabajador_01,46,Barranquilla,90,Buen trabajo
+439,Trabajador_04,20,Cali,92,Excelente
+440,Trabajador_04,57,Cali,90,A mejorar
+441,Trabajador_02,51,Cali,85,Excelente
+442,Trabajador_03,57,,92,Sin comentarios
+443,Trabajador_03,44,Medellín,92,A mejorar
+444,Trabajador_02,30,Barranquilla,85,Sin comentarios
+445,Trabajador_01,50,,,A mejorar
+446,Trabajador_03,23,Barranquilla,90,
+447,Trabajador_04,41,Barranquilla,92,Excelente
+448,Trabajador_04,36,Medellín,78,Buen trabajo
+449,Trabajador_05,33,Cali,,A mejorar
+450,Trabajador_03,57,Medellín,90,A mejorar
+451,Trabajador_01,45,,78,Sin comentarios
+452,Trabajador_02,50,,85,
+453,Trabajador_02,58,,90,Sin comentarios
+454,Trabajador_01,30,Medellín,,Sin comentarios
+455,Trabajador_05,42,Barranquilla,,
+456,Trabajador_02,59,Barranquilla,85,Buen trabajo
+457,Trabajador_03,53,Bogotá,85,Sin comentarios
+458,Trabajador_05,44,,90,Sin comentarios
+459,Trabajador_03,55,Barranquilla,92,A mejorar
+460,Trabajador_04,24,Bogotá,85,
+461,Trabajador_05,22,Barranquilla,92,Excelente
+462,Trabajador_02,48,,78,Buen trabajo
+463,Trabajador_05,40,Cali,,Buen trabajo
+464,Trabajador_05,59,,92,
+465,Trabajador_05,27,Medellín,,A mejorar
+466,Trabajador_05,49,Barranquilla,92,A mejorar
+467,Trabajador_03,47,Barranquilla,78,
+468,Trabajador_04,56,Medellín,85,A mejorar
+469,Trabajador_01,48,Medellín,78,Buen trabajo
+470,Trabajador_05,35,Cali,85,Buen trabajo
+471,Trabajador_02,53,Barranquilla,85,Excelente
+472,Trabajador_05,19,Barranquilla,,
+473,Trabajador_02,31,Cali,78,Sin comentarios
+474,Trabajador_03,30,Bogotá,92,Sin comentarios
+475,Trabajador_02,46,Cali,78,Excelente
+476,Trabajador_01,29,,,Excelente
+477,Trabajador_04,56,Barranquilla,85,A mejorar
+478,Trabajador_02,19,Medellín,,Excelente
+479,Trabajador_02,49,,90,Excelente
+480,Trabajador_04,30,Barranquilla,90,Sin comentarios
+481,Trabajador_01,44,Cali,92,A mejorar
+482,Trabajador_05,58,,,Excelente
+483,Trabajador_02,34,Barranquilla,92,Excelente
+484,Trabajador_04,57,Bogotá,92,A mejorar
+485,Trabajador_03,48,Bogotá,90,
+486,Trabajador_04,51,Medellín,92,A mejorar
+487,Trabajador_03,41,Barranquilla,90,Sin comentarios
+488,Trabajador_01,52,Bogotá,85,
+489,Trabajador_05,23,Cali,,Buen trabajo
+490,Trabajador_04,36,Barranquilla,92,A mejorar
+491,Trabajador_02,47,Cali,90,Sin comentarios
+492,Trabajador_01,24,Cali,78,
+493,Trabajador_04,27,Bogotá,92,A mejorar
+494,Trabajador_02,58,Barranquilla,85,Excelente
+495,Trabajador_04,49,,85,A mejorar
+496,Trabajador_03,51,Bogotá,78,Buen trabajo
+497,Trabajador_04,45,Bogotá,90,A mejorar
+498,Trabajador_04,32,Barranquilla,92,
+499,Trabajador_04,47,Barranquilla,90,
+500,Trabajador_01,54,Cali,85,A mejorar
+501,Trabajador_04,46,Barranquilla,,
+502,Trabajador_02,39,Cali,85,Excelente
+503,Trabajador_03,21,Bogotá,90,A mejorar
+504,Trabajador_03,37,Medellín,78,Excelente
+505,Trabajador_04,49,,,Excelente
+506,Trabajador_01,53,Bogotá,78,Sin comentarios
+507,Trabajador_01,21,Barranquilla,78,A mejorar
+508,Trabajador_02,44,,,
+509,Trabajador_04,34,Medellín,,Excelente
+510,Trabajador_03,29,Medellín,92,Sin comentarios
+511,Trabajador_01,39,Cali,92,A mejorar
+512,Trabajador_04,34,,78,A mejorar
+513,Trabajador_01,27,Cali,78,Buen trabajo
+514,Trabajador_01,18,Bogotá,85,Buen trabajo
+515,Trabajador_03,39,,85,Excelente
+516,Trabajador_05,43,Bogotá,92,Buen trabajo
+517,Trabajador_02,35,Cali,92,Excelente
+518,Trabajador_02,31,,85,
+519,Trabajador_03,46,Cali,85,Excelente
+520,Trabajador_01,29,,90,Buen trabajo
+521,Trabajador_04,53,Cali,90,
+522,Trabajador_01,52,Medellín,85,Buen trabajo
+523,Trabajador_03,29,Cali,90,Excelente
+524,Trabajador_02,24,Medellín,,Sin comentarios
+525,Trabajador_01,46,Cali,92,A mejorar
+526,Trabajador_02,28,,92,Buen trabajo
+527,Trabajador_04,50,,85,Excelente
+528,Trabajador_02,23,,78,
+529,Trabajador_02,32,Barranquilla,85,Buen trabajo
+530,Trabajador_05,49,Bogotá,90,Buen trabajo
+531,Trabajador_05,28,,78,A mejorar
+532,Trabajador_05,40,Medellín,90,Excelente
+533,Trabajador_02,43,,,Sin comentarios
+534,Trabajador_03,51,Barranquilla,90,
+535,Trabajador_02,51,Medellín,,Excelente
+536,Trabajador_03,46,Barranquilla,,
+537,Trabajador_03,21,Medellín,90,Buen trabajo
+538,Trabajador_05,34,Cali,90,A mejorar
+539,Trabajador_01,52,Bogotá,,A mejorar
+540,Trabajador_04,30,Bogotá,78,Sin comentarios
+541,Trabajador_05,58,Barranquilla,,A mejorar
+542,Trabajador_05,56,Bogotá,92,Buen trabajo
+543,Trabajador_01,32,Barranquilla,,Sin comentarios
+544,Trabajador_04,46,Barranquilla,78,Excelente
+545,Trabajador_02,46,Barranquilla,92,A mejorar
+546,Trabajador_02,28,Bogotá,85,Sin comentarios
+547,Trabajador_05,49,Barranquilla,85,Buen trabajo
+548,Trabajador_04,19,Bogotá,78,
+549,Trabajador_05,31,,,
+550,Trabajador_03,37,,90,Buen trabajo
+551,Trabajador_05,39,Barranquilla,78,Buen trabajo
+552,Trabajador_05,28,Medellín,92,
+553,Trabajador_02,44,Barranquilla,92,Sin comentarios
+554,Trabajador_02,20,Cali,85,
+555,Trabajador_02,34,Barranquilla,92,Buen trabajo
+556,Trabajador_03,45,Medellín,78,A mejorar
+557,Trabajador_02,46,Medellín,92,Excelente
+558,Trabajador_04,,Bogotá,78,A mejorar
+559,Trabajador_01,33,,90,A mejorar
+560,Trabajador_04,54,Barranquilla,85,Buen trabajo
+561,Trabajador_04,37,Bogotá,92,
+562,Trabajador_02,23,,78,Sin comentarios
+563,Trabajador_01,36,Barranquilla,,A mejorar
+564,Trabajador_01,22,Cali,85,
+565,Trabajador_01,20,Barranquilla,90,Sin comentarios
+566,Trabajador_03,18,Medellín,78,A mejorar
+567,Trabajador_02,55,,90,Sin comentarios
+568,Trabajador_01,32,Cali,90,
+569,Trabajador_03,51,Bogotá,92,Excelente
+570,Trabajador_05,52,,92,
+571,Trabajador_05,42,Barranquilla,78,Buen trabajo
+572,Trabajador_03,41,Medellín,,Sin comentarios
+573,Trabajador_03,29,Bogotá,78,Excelente
+574,Trabajador_02,35,Cali,,Sin comentarios
+575,Trabajador_02,32,Medellín,90,Sin comentarios
+576,Trabajador_05,33,Cali,85,A mejorar
+577,Trabajador_01,44,Barranquilla,78,Buen trabajo
+578,Trabajador_05,25,,78,Sin comentarios
+579,Trabajador_01,42,Medellín,,
+580,Trabajador_01,34,Medellín,90,
+581,Trabajador_02,46,Barranquilla,,A mejorar
+582,Trabajador_04,25,Bogotá,,Buen trabajo
+583,Trabajador_04,32,,90,Buen trabajo
+584,Trabajador_03,44,Medellín,92,
+585,Trabajador_02,24,,85,Excelente
+586,Trabajador_01,20,Medellín,78,A mejorar
+587,Trabajador_04,46,,85,A mejorar
+588,Trabajador_01,41,Cali,78,
+589,Trabajador_04,20,Medellín,92,
+590,Trabajador_04,37,,90,Excelente
+591,Trabajador_04,32,Bogotá,,Excelente
+592,Trabajador_02,42,Cali,92,Buen trabajo
+593,Trabajador_05,47,Cali,85,A mejorar
+594,Trabajador_01,31,Bogotá,,A mejorar
+595,Trabajador_02,24,,90,
+596,Trabajador_02,,Barranquilla,92,Buen trabajo
+597,Trabajador_02,37,Bogotá,,A mejorar
+598,Trabajador_02,53,,92,Buen trabajo
+599,Trabajador_02,26,Bogotá,92,Buen trabajo
+600,Trabajador_03,55,Bogotá,90,
+601,Trabajador_01,39,Medellín,78,Buen trabajo
+602,Trabajador_02,19,,,Excelente
+603,Trabajador_01,41,Barranquilla,90,Excelente
+604,Trabajador_03,25,Medellín,92,Sin comentarios
+605,Trabajador_03,28,Bogotá,90,
+606,Trabajador_01,30,Bogotá,78,Sin comentarios
+607,Trabajador_04,34,Bogotá,,Excelente
+608,Trabajador_05,25,,78,Sin comentarios
+609,Trabajador_04,38,,85,
+610,Trabajador_04,35,Medellín,,
+611,Trabajador_04,47,Barranquilla,78,Buen trabajo
+612,Trabajador_02,35,Medellín,92,A mejorar
+613,Trabajador_03,48,Cali,,Buen trabajo
+614,Trabajador_04,55,Bogotá,,
+615,Trabajador_03,49,Bogotá,90,Excelente
+616,Trabajador_01,28,Bogotá,92,Excelente
+617,Trabajador_05,42,Medellín,85,Buen trabajo
+618,Trabajador_01,50,Medellín,78,
+619,Trabajador_01,55,Bogotá,90,Excelente
+620,Trabajador_02,58,Medellín,78,
+621,Trabajador_05,25,,85,Excelente
+622,Trabajador_01,28,,85,
+623,Trabajador_01,39,Medellín,,Sin comentarios
+624,Trabajador_05,41,Bogotá,,
+625,Trabajador_05,58,Medellín,78,
+626,Trabajador_01,34,Medellín,92,Buen trabajo
+627,Trabajador_05,29,Medellín,92,Sin comentarios
+628,Trabajador_01,49,Cali,,A mejorar
+629,Trabajador_01,32,,78,Buen trabajo
+630,Trabajador_02,33,Barranquilla,78,A mejorar
+631,Trabajador_04,39,Barranquilla,85,Excelente
+632,Trabajador_01,45,Cali,78,A mejorar
+633,Trabajador_03,37,Medellín,90,
+634,Trabajador_04,50,Cali,85,A mejorar
+635,Trabajador_04,27,Cali,90,Buen trabajo
+636,Trabajador_04,57,Bogotá,,Buen trabajo
+637,Trabajador_02,49,,92,A mejorar
+638,Trabajador_01,50,Barranquilla,,Buen trabajo
+639,Trabajador_02,19,Medellín,92,Buen trabajo
+640,Trabajador_01,50,Barranquilla,,A mejorar
+641,Trabajador_02,50,Barranquilla,78,Sin comentarios
+642,Trabajador_02,58,,90,Sin comentarios
+643,Trabajador_03,30,Barranquilla,92,Excelente
+644,Trabajador_02,47,Barranquilla,85,Buen trabajo
+645,Trabajador_05,50,Cali,90,A mejorar
+646,Trabajador_03,30,,85,Buen trabajo
+647,Trabajador_02,43,Bogotá,90,
+648,Trabajador_04,39,Medellín,90,Buen trabajo
+649,Trabajador_05,56,Barranquilla,,Buen trabajo
+650,Trabajador_05,19,Medellín,92,Sin comentarios
+651,Trabajador_05,55,Bogotá,92,A mejorar
+652,Trabajador_03,56,Medellín,90,Buen trabajo
+653,Trabajador_02,43,Bogotá,78,Sin comentarios
+654,Trabajador_02,32,Cali,78,Excelente
+655,Trabajador_04,51,Barranquilla,85,Sin comentarios
+656,Trabajador_04,59,Bogotá,85,Sin comentarios
+657,Trabajador_05,57,Medellín,,Sin comentarios
+658,Trabajador_04,28,Barranquilla,90,Buen trabajo
+659,Trabajador_03,20,Cali,85,Buen trabajo
+660,Trabajador_02,23,Barranquilla,85,Excelente
+661,Trabajador_05,26,Bogotá,90,
+662,Trabajador_04,23,,,
+663,Trabajador_03,26,Medellín,85,
+664,Trabajador_03,56,Cali,,Excelente
+665,Trabajador_04,48,Cali,92,
+666,Trabajador_02,49,,,
+667,Trabajador_04,58,Cali,78,Sin comentarios
+668,Trabajador_05,29,Cali,78,Buen trabajo
+669,Trabajador_04,25,Barranquilla,,Buen trabajo
+670,Trabajador_03,25,Medellín,78,Sin comentarios
+671,Trabajador_04,45,Barranquilla,92,Sin comentarios
+672,Trabajador_02,37,Barranquilla,90,Sin comentarios
+673,Trabajador_01,24,Bogotá,78,Buen trabajo
+674,Trabajador_04,28,Barranquilla,78,
+675,Trabajador_02,37,,,Sin comentarios
+676,Trabajador_02,33,,92,Excelente
+677,Trabajador_03,21,Bogotá,90,Sin comentarios
+678,Trabajador_02,23,Medellín,,A mejorar
+679,Trabajador_02,39,Medellín,,Sin comentarios
+680,Trabajador_02,43,Barranquilla,92,Buen trabajo
+681,Trabajador_02,20,Barranquilla,90,Sin comentarios
+682,Trabajador_05,58,Barranquilla,92,A mejorar
+683,Trabajador_05,59,Medellín,90,Excelente
+684,Trabajador_03,31,Cali,92,
+685,Trabajador_04,28,,,Sin comentarios
+686,Trabajador_02,35,Cali,,A mejorar
+687,Trabajador_04,29,Cali,85,A mejorar
+688,Trabajador_04,40,Medellín,78,Excelente
+689,Trabajador_03,29,Cali,92,Buen trabajo
+690,Trabajador_02,30,Bogotá,85,Sin comentarios
+691,Trabajador_02,42,Barranquilla,78,A mejorar
+692,Trabajador_01,36,Bogotá,92,Excelente
+693,Trabajador_04,53,,90,
+694,Trabajador_04,25,Barranquilla,78,A mejorar
+695,Trabajador_05,46,Cali,,Excelente
+696,Trabajador_01,49,,85,Buen trabajo
+697,Trabajador_05,35,Barranquilla,78,Buen trabajo
+698,Trabajador_05,23,Cali,78,A mejorar
+699,Trabajador_05,35,Bogotá,,A mejorar
+700,Trabajador_03,36,Barranquilla,92,Sin comentarios
+701,Trabajador_03,39,Cali,90,Excelente
+702,Trabajador_05,54,Bogotá,,A mejorar
+703,Trabajador_01,49,,90,Sin comentarios
+704,Trabajador_04,58,,92,Sin comentarios
+705,Trabajador_01,20,,78,A mejorar
+706,Trabajador_02,45,,90,Buen trabajo
+707,Trabajador_03,27,Medellín,85,Excelente
+708,Trabajador_04,52,Barranquilla,85,Excelente
+709,Trabajador_04,46,Barranquilla,,Buen trabajo
+710,Trabajador_02,32,Medellín,92,A mejorar
+711,Trabajador_02,50,Cali,,Excelente
+712,Trabajador_05,24,Cali,,A mejorar
+713,Trabajador_03,29,,,A mejorar
+714,Trabajador_03,47,Bogotá,85,Sin comentarios
+715,Trabajador_01,38,Cali,85,Buen trabajo
+716,Trabajador_05,48,Bogotá,,A mejorar
+717,Trabajador_05,41,,85,
+718,Trabajador_05,37,Bogotá,92,Buen trabajo
+719,Trabajador_05,54,Barranquilla,,Excelente
+720,Trabajador_03,21,Medellín,85,Sin comentarios
+721,Trabajador_03,45,Medellín,90,Excelente
+722,Trabajador_05,37,,,Excelente
+723,Trabajador_01,41,Cali,,Buen trabajo
+724,Trabajador_04,49,,92,Excelente
+725,Trabajador_04,58,Barranquilla,78,A mejorar
+726,Trabajador_01,53,,78,Excelente
+727,Trabajador_05,51,Bogotá,92,Sin comentarios
+728,Trabajador_03,53,Barranquilla,92,Sin comentarios
+729,Trabajador_04,19,Medellín,92,
+730,Trabajador_02,32,Cali,78,Sin comentarios
+731,Trabajador_02,51,Barranquilla,92,Excelente
+732,Trabajador_01,53,Barranquilla,85,Sin comentarios
+733,Trabajador_05,23,Bogotá,,Buen trabajo
+734,Trabajador_04,56,Cali,,Sin comentarios
+735,Trabajador_05,59,Medellín,90,A mejorar
+736,Trabajador_04,29,Barranquilla,90,Buen trabajo
+737,Trabajador_01,20,Barranquilla,,
+738,Trabajador_01,35,Bogotá,85,
+739,Trabajador_02,57,,78,Excelente
+740,Trabajador_05,38,Medellín,78,Excelente
+741,Trabajador_02,32,Cali,85,Excelente
+742,Trabajador_05,50,Barranquilla,78,A mejorar
+743,Trabajador_02,52,Barranquilla,92,A mejorar
+744,Trabajador_03,43,Medellín,,A mejorar
+745,Trabajador_03,25,,,Buen trabajo
+746,Trabajador_03,53,Barranquilla,85,Buen trabajo
+747,Trabajador_03,47,Medellín,78,Excelente
+748,Trabajador_04,40,Bogotá,90,Sin comentarios
+749,Trabajador_03,59,,90,Excelente
+750,Trabajador_01,31,Cali,78,
+751,Trabajador_01,31,Barranquilla,90,Buen trabajo
+752,Trabajador_04,,Medellín,85,A mejorar
+753,Trabajador_03,54,Bogotá,85,Buen trabajo
+754,Trabajador_03,22,Cali,78,A mejorar
+755,Trabajador_03,55,Medellín,90,
+756,Trabajador_02,58,,85,
+757,Trabajador_05,31,Cali,85,Buen trabajo
+758,Trabajador_02,56,Bogotá,92,A mejorar
+759,Trabajador_05,42,Bogotá,92,
+760,Trabajador_03,37,,85,Excelente
+761,Trabajador_03,19,Barranquilla,78,Excelente
+762,Trabajador_02,56,Cali,,A mejorar
+763,Trabajador_02,23,Cali,,Buen trabajo
+764,Trabajador_05,,Cali,85,
+765,Trabajador_01,42,Bogotá,85,Buen trabajo
+766,Trabajador_05,45,Barranquilla,85,Excelente
+767,Trabajador_02,19,,78,
+768,Trabajador_02,52,Medellín,92,Buen trabajo
+769,Trabajador_04,54,Medellín,85,Sin comentarios
+770,Trabajador_02,22,Cali,85,A mejorar
+771,Trabajador_04,18,Barranquilla,90,A mejorar
+772,Trabajador_01,57,Bogotá,78,Sin comentarios
+773,Trabajador_05,29,Barranquilla,85,Excelente
+774,Trabajador_05,53,Barranquilla,90,
+775,Trabajador_04,40,Bogotá,,A mejorar
+776,Trabajador_05,48,Cali,85,Sin comentarios
+777,Trabajador_02,28,Barranquilla,85,Sin comentarios
+778,Trabajador_03,27,Medellín,90,Excelente
+779,Trabajador_04,20,Bogotá,78,Excelente
+780,Trabajador_05,31,,85,Buen trabajo
+781,Trabajador_04,33,Cali,,A mejorar
+782,Trabajador_04,27,Bogotá,85,Buen trabajo
+783,Trabajador_03,46,,,Sin comentarios
+784,Trabajador_02,27,,92,
+785,Trabajador_04,29,Barranquilla,92,
+786,Trabajador_05,47,Barranquilla,,Excelente
+787,Trabajador_01,58,Barranquilla,78,
+788,Trabajador_04,18,Bogotá,85,
+789,Trabajador_04,22,Bogotá,85,
+790,Trabajador_03,37,Cali,92,Sin comentarios
+791,Trabajador_02,25,Barranquilla,,
+792,Trabajador_01,29,,85,
+793,Trabajador_05,18,Medellín,85,
+794,Trabajador_01,37,Cali,78,Buen trabajo
+795,Trabajador_05,45,Bogotá,90,Sin comentarios
+796,Trabajador_02,54,Cali,92,Excelente
+797,Trabajador_05,54,Cali,92,Buen trabajo
+798,Trabajador_03,29,Cali,90,A mejorar
+799,Trabajador_03,54,Cali,85,Sin comentarios
+800,Trabajador_03,45,Medellín,78,Sin comentarios
+801,Trabajador_03,32,Barranquilla,78,A mejorar
+802,Trabajador_01,23,,92,A mejorar
+803,Trabajador_02,37,Cali,,A mejorar
+804,Trabajador_05,31,Cali,90,Excelente
+805,Trabajador_05,19,Cali,85,
+806,Trabajador_03,26,Barranquilla,90,Sin comentarios
+807,Trabajador_03,54,Bogotá,,
+808,Trabajador_04,37,Bogotá,92,
+809,Trabajador_02,43,Medellín,78,A mejorar
+810,Trabajador_01,46,Bogotá,,Excelente
+811,Trabajador_05,18,Cali,78,Buen trabajo
+812,Trabajador_04,52,Cali,85,Excelente
+813,Trabajador_04,23,Cali,85,
+814,Trabajador_05,54,Medellín,85,Excelente
+815,Trabajador_01,22,Cali,78,A mejorar
+816,Trabajador_04,50,Bogotá,,Buen trabajo
+817,Trabajador_04,31,Barranquilla,85,A mejorar
+818,Trabajador_02,29,Barranquilla,,Buen trabajo
+819,Trabajador_01,59,,78,
+820,Trabajador_04,37,Bogotá,,Buen trabajo
+821,Trabajador_01,41,Cali,78,Buen trabajo
+822,Trabajador_05,51,Barranquilla,78,Buen trabajo
+823,Trabajador_03,42,Bogotá,92,Excelente
+824,Trabajador_04,46,Barranquilla,78,Excelente
+825,Trabajador_02,56,Cali,78,
+826,Trabajador_05,48,Barranquilla,90,Buen trabajo
+827,Trabajador_01,40,,85,Sin comentarios
+828,Trabajador_05,55,,92,
+829,Trabajador_04,37,Barranquilla,92,Buen trabajo
+830,Trabajador_01,40,Bogotá,92,Buen trabajo
+831,Trabajador_03,33,Bogotá,90,Excelente
+832,Trabajador_05,59,Bogotá,78,
+833,Trabajador_04,25,Barranquilla,85,Buen trabajo
+834,Trabajador_02,38,Bogotá,,Buen trabajo
+835,Trabajador_01,18,Cali,78,
+836,Trabajador_05,25,,90,Sin comentarios
+837,Trabajador_05,46,Cali,78,
+838,Trabajador_03,49,Bogotá,78,
+839,Trabajador_03,55,Cali,90,Sin comentarios
+840,Trabajador_02,22,Bogotá,92,
+841,Trabajador_02,39,Barranquilla,92,Buen trabajo
+842,Trabajador_04,51,Cali,85,
+843,Trabajador_04,18,Barranquilla,85,Sin comentarios
+844,Trabajador_02,43,Barranquilla,92,A mejorar
+845,Trabajador_02,27,Medellín,,
+846,Trabajador_01,47,Bogotá,78,Excelente
+847,Trabajador_03,35,,,Buen trabajo
+848,Trabajador_04,34,Bogotá,78,Buen trabajo
+849,Trabajador_03,43,,92,Excelente
+850,Trabajador_03,25,Bogotá,85,Excelente
+851,Trabajador_02,57,Barranquilla,85,
+852,Trabajador_01,29,Cali,,Excelente
+853,Trabajador_05,44,Cali,85,A mejorar
+854,Trabajador_01,25,Medellín,92,Sin comentarios
+855,Trabajador_01,42,,,Excelente
+856,Trabajador_03,21,,78,Excelente
+857,Trabajador_01,50,,85,A mejorar
+858,Trabajador_04,18,Barranquilla,90,Buen trabajo
+859,Trabajador_03,36,,85,Buen trabajo
+860,Trabajador_04,48,Cali,78,
+861,Trabajador_05,33,Barranquilla,,A mejorar
+862,Trabajador_03,31,Bogotá,78,Sin comentarios
+863,Trabajador_05,22,,90,Sin comentarios
+864,Trabajador_03,58,,92,A mejorar
+865,Trabajador_02,43,Bogotá,85,Sin comentarios
+866,Trabajador_01,45,,,Buen trabajo
+867,Trabajador_02,19,Bogotá,92,Sin comentarios
+868,Trabajador_05,23,Barranquilla,78,Sin comentarios
+869,Trabajador_01,26,Cali,,A mejorar
+870,Trabajador_03,50,Bogotá,92,A mejorar
+871,Trabajador_01,58,Medellín,,Sin comentarios
+872,Trabajador_04,42,Bogotá,90,Excelente
+873,Trabajador_01,30,,90,A mejorar
+874,Trabajador_04,26,Barranquilla,85,
+875,Trabajador_01,30,Barranquilla,85,
+876,Trabajador_04,48,Bogotá,90,Buen trabajo
+877,Trabajador_05,58,Cali,,Sin comentarios
+878,Trabajador_02,28,Medellín,90,Excelente
+879,Trabajador_03,21,Barranquilla,85,Buen trabajo
+880,Trabajador_01,51,,90,Sin comentarios
+881,Trabajador_02,55,,90,A mejorar
+882,Trabajador_03,21,Cali,,
+883,Trabajador_03,55,Barranquilla,92,Excelente
+884,Trabajador_04,36,Bogotá,85,
+885,Trabajador_05,23,,,A mejorar
+886,Trabajador_05,51,Cali,90,Sin comentarios
+887,Trabajador_02,35,Barranquilla,90,A mejorar
+888,Trabajador_05,,Barranquilla,92,A mejorar
+889,Trabajador_01,58,Barranquilla,85,
+890,Trabajador_05,40,Barranquilla,85,Excelente
+891,Trabajador_02,36,Barranquilla,78,A mejorar
+892,Trabajador_05,28,,85,
+893,Trabajador_01,18,Cali,92,Excelente
+894,Trabajador_04,41,Barranquilla,78,Sin comentarios
+895,Trabajador_02,24,Medellín,78,Sin comentarios
+896,Trabajador_04,42,Medellín,90,Buen trabajo
+897,Trabajador_04,38,Cali,90,
+898,Trabajador_04,32,Bogotá,85,Excelente
+899,Trabajador_03,18,Bogotá,78,A mejorar
+900,Trabajador_03,29,Bogotá,90,Sin comentarios
+901,Trabajador_04,24,Medellín,92,Excelente
+902,Trabajador_02,32,Bogotá,90,
+903,Trabajador_01,38,,90,Buen trabajo
+904,Trabajador_01,36,Barranquilla,78,Sin comentarios
+905,Trabajador_05,46,Medellín,78,Excelente
+906,Trabajador_02,42,Cali,,Excelente
+907,Trabajador_03,50,Cali,92,Excelente
+908,Trabajador_04,49,Barranquilla,78,
+909,Trabajador_05,52,Medellín,85,
+910,Trabajador_01,55,Bogotá,92,
+911,Trabajador_03,43,Bogotá,92,A mejorar
+912,Trabajador_03,28,,78,Excelente
+913,Trabajador_04,52,,92,Sin comentarios
+914,Trabajador_01,25,Bogotá,78,
+915,Trabajador_02,31,Cali,90,
+916,Trabajador_03,27,Cali,,Excelente
+917,Trabajador_04,19,,90,
+918,Trabajador_02,26,Barranquilla,78,A mejorar
+919,Trabajador_01,20,Bogotá,78,A mejorar
+920,Trabajador_03,38,,90,
+921,Trabajador_02,43,,85,Excelente
+922,Trabajador_02,25,Bogotá,85,Excelente
+923,Trabajador_02,19,Bogotá,85,Excelente
+924,Trabajador_03,23,Cali,78,Buen trabajo
+925,Trabajador_03,45,Barranquilla,92,
+926,Trabajador_05,46,Barranquilla,78,
+927,Trabajador_01,43,Bogotá,92,
+928,Trabajador_04,42,Medellín,90,Sin comentarios
+929,Trabajador_02,29,,,Sin comentarios
+930,Trabajador_05,22,,92,Excelente
+931,Trabajador_04,51,Bogotá,85,Sin comentarios
+932,Trabajador_05,54,Medellín,78,Sin comentarios
+933,Trabajador_03,32,Cali,90,Buen trabajo
+934,Trabajador_02,53,Bogotá,85,A mejorar
+935,Trabajador_04,32,Bogotá,90,A mejorar
+936,Trabajador_04,40,,,Buen trabajo
+937,Trabajador_04,23,Bogotá,78,Buen trabajo
+938,Trabajador_04,38,Bogotá,78,Sin comentarios
+939,Trabajador_04,40,Bogotá,,
+940,Trabajador_05,33,,78,Sin comentarios
+941,Trabajador_02,32,Cali,92,Buen trabajo
+942,Trabajador_03,42,Cali,90,A mejorar
+943,Trabajador_03,53,Bogotá,85,Sin comentarios
+944,Trabajador_03,28,,,
+945,Trabajador_03,32,Cali,92,Sin comentarios
+946,Trabajador_05,21,Cali,85,Excelente
+947,Trabajador_01,38,Cali,85,Sin comentarios
+948,Trabajador_02,30,,,Buen trabajo
+949,Trabajador_04,39,,92,A mejorar
+950,Trabajador_01,36,Bogotá,85,A mejorar
+951,Trabajador_03,51,Barranquilla,85,Buen trabajo
+952,Trabajador_01,31,Cali,92,Excelente
+953,Trabajador_02,21,Barranquilla,78,Buen trabajo
+954,Trabajador_04,44,,85,Sin comentarios
+955,Trabajador_04,46,,90,Buen trabajo
+956,Trabajador_02,45,,92,Buen trabajo
+957,Trabajador_02,52,Barranquilla,85,Excelente
+958,Trabajador_03,25,,,Sin comentarios
+959,Trabajador_04,33,Bogotá,90,
+960,Trabajador_01,59,,85,
+961,Trabajador_05,53,Medellín,90,A mejorar
+962,Trabajador_05,47,Barranquilla,90,Buen trabajo
+963,Trabajador_02,35,Medellín,78,A mejorar
+964,Trabajador_03,19,,90,Excelente
+965,Trabajador_05,30,Bogotá,78,
+966,Trabajador_04,21,Cali,92,Buen trabajo
+967,Trabajador_02,43,,78,Excelente
+968,Trabajador_01,42,Bogotá,,Excelente
+969,Trabajador_02,47,Barranquilla,85,Buen trabajo
+970,Trabajador_01,28,Medellín,92,Excelente
+971,Trabajador_02,24,Medellín,92,Buen trabajo
+972,Trabajador_02,48,Medellín,,Buen trabajo
+973,Trabajador_02,,Barranquilla,78,Sin comentarios
+974,Trabajador_01,56,Bogotá,85,A mejorar
+975,Trabajador_01,30,Barranquilla,78,Excelente
+976,Trabajador_02,48,Medellín,90,Excelente
+977,Trabajador_05,24,,78,Sin comentarios
+978,Trabajador_03,59,Cali,92,Sin comentarios
+979,Trabajador_03,59,Barranquilla,85,Sin comentarios
+980,Trabajador_03,53,Barranquilla,78,
+981,Trabajador_01,37,Bogotá,85,
+982,Trabajador_01,21,Bogotá,85,
+983,Trabajador_05,24,Barranquilla,90,
+984,Trabajador_03,18,Medellín,90,Excelente
+985,Trabajador_03,59,Cali,92,A mejorar
+986,Trabajador_02,30,Bogotá,,Buen trabajo
+987,Trabajador_01,39,Medellín,85,Excelente
+988,Trabajador_03,38,,,Excelente
+989,Trabajador_05,39,Bogotá,92,Sin comentarios
+990,Trabajador_05,45,Medellín,85,Sin comentarios
+991,Trabajador_03,26,Medellín,85,Buen trabajo
+992,Trabajador_01,43,Cali,,Sin comentarios
+993,Trabajador_05,26,Cali,78,Excelente
+994,Trabajador_02,32,,90,Sin comentarios
+995,Trabajador_05,27,Medellín,78,
+996,Trabajador_04,41,Medellín,,Sin comentarios
+997,Trabajador_04,59,Cali,90,Excelente
+998,Trabajador_01,25,Bogotá,78,Buen trabajo
+999,Trabajador_03,41,Bogotá,90,A mejorar

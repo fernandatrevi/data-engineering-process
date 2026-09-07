@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.pyc
+
+# Descomenta esta línea si la base contiene datos personales:
+# data/Performance_workers.csv
+

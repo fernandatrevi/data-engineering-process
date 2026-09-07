@@ -1,0 +1,977 @@
+Nombre,Edad,Ciudad,Puntuacion,Comentarios,Rendimiento,Juventud
+Trabajador_01,29,Desconocido,92.0,Buen trabajo,100.0,28.999999999999996
+Trabajador_02,53,Medellín,78.0,Sin comentarios,84.78260869565217,53.0
+Trabajador_03,21,Cali,92.0,Excelente,100.0,21.0
+Trabajador_02,22,Desconocido,78.0,Excelente,84.78260869565217,22.0
+Trabajador_02,54,Barranquilla,86.0,Excelente,93.47826086956522,54.0
+Trabajador_05,25,Medellín,90.0,Sin comentarios,97.82608695652173,25.0
+Trabajador_03,59,Cali,86.0,A mejorar,93.47826086956522,59.0
+Trabajador_03,45,Barranquilla,78.0,Sin comentarios,84.78260869565217,45.0
+Trabajador_03,48,Barranquilla,90.0,No especificado,97.82608695652173,48.0
+Trabajador_02,26,Medellín,85.0,Sin comentarios,92.3913043478261,26.0
+Trabajador_03,31,Medellín,92.0,Buen trabajo,100.0,31.0
+Trabajador_02,57,Cali,78.0,Sin comentarios,84.78260869565217,56.99999999999999
+Trabajador_05,58,Barranquilla,78.0,Sin comentarios,84.78260869565217,57.99999999999999
+Trabajador_01,39,Medellín,85.0,Excelente,92.3913043478261,39.0
+Trabajador_05,28,Bogotá,86.0,Buen trabajo,93.47826086956522,28.000000000000004
+Trabajador_01,40,Medellín,90.0,Buen trabajo,97.82608695652173,40.0
+Trabajador_02,18,Desconocido,86.0,No especificado,93.47826086956522,18.0
+Trabajador_04,54,Bogotá,86.0,Sin comentarios,93.47826086956522,54.0
+Trabajador_01,38,Cali,85.0,Buen trabajo,92.3913043478261,38.0
+Trabajador_05,43,Barranquilla,85.0,Buen trabajo,92.3913043478261,43.0
+Trabajador_02,53,Medellín,85.0,A mejorar,92.3913043478261,53.0
+Trabajador_01,40,Bogotá,92.0,A mejorar,100.0,40.0
+Trabajador_04,18,Desconocido,86.0,No especificado,93.47826086956522,18.0
+Trabajador_04,57,Bogotá,78.0,No especificado,84.78260869565217,56.99999999999999
+Trabajador_03,32,Desconocido,90.0,Buen trabajo,97.82608695652173,32.0
+Trabajador_03,38,Cali,92.0,Excelente,100.0,38.0
+Trabajador_05,26,Barranquilla,78.0,Sin comentarios,84.78260869565217,26.0
+Trabajador_01,26,Cali,86.0,No especificado,93.47826086956522,26.0
+Trabajador_01,27,Medellín,85.0,Excelente,92.3913043478261,27.0
+Trabajador_03,43,Bogotá,86.0,No especificado,93.47826086956522,43.0
+Trabajador_01,58,Desconocido,90.0,Excelente,97.82608695652173,57.99999999999999
+Trabajador_01,52,Desconocido,92.0,Sin comentarios,100.0,52.0
+Trabajador_04,42,Bogotá,92.0,Sin comentarios,100.0,42.0
+Trabajador_03,43,Bogotá,90.0,A mejorar,97.82608695652173,43.0
+Trabajador_02,28,Medellín,78.0,Excelente,84.78260869565217,28.000000000000004
+Trabajador_03,55,Cali,78.0,A mejorar,84.78260869565217,55.00000000000001
+Trabajador_02,19,Desconocido,92.0,Excelente,100.0,19.0
+Trabajador_04,24,Medellín,92.0,A mejorar,100.0,24.0
+Trabajador_05,35,Cali,85.0,Sin comentarios,92.3913043478261,35.0
+Trabajador_01,44,Medellín,78.0,No especificado,84.78260869565217,44.0
+Trabajador_04,51,Desconocido,90.0,A mejorar,97.82608695652173,51.0
+Trabajador_01,44,Bogotá,78.0,Excelente,84.78260869565217,44.0
+Trabajador_05,34,Bogotá,85.0,Excelente,92.3913043478261,34.0
+Trabajador_05,41,Cali,92.0,Sin comentarios,100.0,41.0
+Trabajador_04,42,Barranquilla,92.0,Excelente,100.0,42.0
+Trabajador_05,24,Cali,85.0,Buen trabajo,92.3913043478261,24.0
+Trabajador_02,23,Barranquilla,90.0,No especificado,97.82608695652173,23.0
+Trabajador_05,41,Medellín,92.0,A mejorar,100.0,41.0
+Trabajador_01,50,Desconocido,86.0,No especificado,93.47826086956522,50.0
+Trabajador_01,46,Desconocido,92.0,Sin comentarios,100.0,46.0
+Trabajador_01,39,Barranquilla,86.0,A mejorar,93.47826086956522,39.0
+Trabajador_01,43,Desconocido,85.0,A mejorar,92.3913043478261,43.0
+Trabajador_02,45,Bogotá,85.0,Buen trabajo,92.3913043478261,45.0
+Trabajador_04,24,Cali,78.0,Excelente,84.78260869565217,24.0
+Trabajador_01,34,Bogotá,86.0,Buen trabajo,93.47826086956522,34.0
+Trabajador_05,37,Bogotá,90.0,Buen trabajo,97.82608695652173,37.0
+Trabajador_01,58,Cali,92.0,No especificado,100.0,57.99999999999999
+Trabajador_05,37,Bogotá,90.0,No especificado,97.82608695652173,37.0
+Trabajador_05,39,Barranquilla,92.0,No especificado,100.0,39.0
+Trabajador_01,45,Desconocido,78.0,Buen trabajo,84.78260869565217,45.0
+Trabajador_02,57,Bogotá,78.0,Excelente,84.78260869565217,56.99999999999999
+Trabajador_05,24,Barranquilla,78.0,A mejorar,84.78260869565217,24.0
+Trabajador_05,18,Medellín,78.0,No especificado,84.78260869565217,18.0
+Trabajador_01,49,Barranquilla,85.0,Excelente,92.3913043478261,49.0
+Trabajador_05,30,Desconocido,85.0,Sin comentarios,92.3913043478261,30.0
+Trabajador_05,47,Barranquilla,86.0,No especificado,93.47826086956522,47.0
+Trabajador_01,40,Cali,90.0,A mejorar,97.82608695652173,40.0
+Trabajador_01,36,Desconocido,92.0,Sin comentarios,100.0,36.0
+Trabajador_04,49,Medellín,92.0,Sin comentarios,100.0,49.0
+Trabajador_02,47,Cali,85.0,A mejorar,92.3913043478261,47.0
+Trabajador_02,46,Barranquilla,92.0,No especificado,100.0,46.0
+Trabajador_05,46,Desconocido,85.0,Buen trabajo,92.3913043478261,46.0
+Trabajador_02,47,Medellín,86.0,A mejorar,93.47826086956522,47.0
+Trabajador_05,33,Cali,90.0,A mejorar,97.82608695652173,33.0
+Trabajador_04,57,Medellín,86.0,A mejorar,93.47826086956522,56.99999999999999
+Trabajador_01,36,Barranquilla,78.0,Sin comentarios,84.78260869565217,36.0
+Trabajador_01,35,Medellín,78.0,Excelente,84.78260869565217,35.0
+Trabajador_01,18,Bogotá,78.0,Buen trabajo,84.78260869565217,18.0
+Trabajador_02,31,Cali,86.0,No especificado,93.47826086956522,31.0
+Trabajador_04,19,Medellín,92.0,No especificado,100.0,19.0
+Trabajador_02,45,Barranquilla,90.0,Excelente,97.82608695652173,45.0
+Trabajador_02,47,Barranquilla,78.0,A mejorar,84.78260869565217,47.0
+Trabajador_04,55,Medellín,78.0,Buen trabajo,84.78260869565217,55.00000000000001
+Trabajador_04,21,Barranquilla,78.0,No especificado,84.78260869565217,21.0
+Trabajador_04,18,Desconocido,90.0,No especificado,97.82608695652173,18.0
+Trabajador_04,25,Desconocido,78.0,A mejorar,84.78260869565217,25.0
+Trabajador_01,46,Desconocido,90.0,Excelente,97.82608695652173,46.0
+Trabajador_03,56,Bogotá,78.0,Buen trabajo,84.78260869565217,56.00000000000001
+Trabajador_03,20,Medellín,86.0,Excelente,93.47826086956522,20.0
+Trabajador_04,49,Bogotá,86.0,Excelente,93.47826086956522,49.0
+Trabajador_03,27,Barranquilla,90.0,No especificado,97.82608695652173,27.0
+Trabajador_03,27,Bogotá,86.0,Buen trabajo,93.47826086956522,27.0
+Trabajador_04,36,Barranquilla,90.0,No especificado,97.82608695652173,36.0
+Trabajador_03,51,Barranquilla,86.0,No especificado,93.47826086956522,51.0
+Trabajador_02,50,Cali,86.0,Buen trabajo,93.47826086956522,50.0
+Trabajador_05,40,Desconocido,90.0,Sin comentarios,97.82608695652173,40.0
+Trabajador_05,45,Barranquilla,92.0,No especificado,100.0,45.0
+Trabajador_04,49,Cali,86.0,Sin comentarios,93.47826086956522,49.0
+Trabajador_01,24,Desconocido,78.0,Buen trabajo,84.78260869565217,24.0
+Trabajador_04,46,Barranquilla,92.0,No especificado,100.0,46.0
+Trabajador_05,18,Bogotá,92.0,Buen trabajo,100.0,18.0
+Trabajador_04,20,Bogotá,85.0,A mejorar,92.3913043478261,20.0
+Trabajador_02,41,Desconocido,85.0,Sin comentarios,92.3913043478261,41.0
+Trabajador_03,40,Barranquilla,86.0,Buen trabajo,93.47826086956522,40.0
+Trabajador_01,25,Medellín,86.0,Buen trabajo,93.47826086956522,25.0
+Trabajador_03,54,Bogotá,78.0,No especificado,84.78260869565217,54.0
+Trabajador_03,20,Desconocido,92.0,No especificado,100.0,20.0
+Trabajador_04,50,Barranquilla,85.0,No especificado,92.3913043478261,50.0
+Trabajador_03,45,Barranquilla,86.0,A mejorar,93.47826086956522,45.0
+Trabajador_02,25,Medellín,92.0,No especificado,100.0,25.0
+Trabajador_03,51,Desconocido,86.0,Buen trabajo,93.47826086956522,51.0
+Trabajador_04,52,Barranquilla,86.0,No especificado,93.47826086956522,52.0
+Trabajador_02,49,Desconocido,85.0,Excelente,92.3913043478261,49.0
+Trabajador_05,41,Medellín,85.0,No especificado,92.3913043478261,41.0
+Trabajador_03,31,Desconocido,86.0,A mejorar,93.47826086956522,31.0
+Trabajador_04,49,Medellín,90.0,Excelente,97.82608695652173,49.0
+Trabajador_05,33,Bogotá,86.0,Buen trabajo,93.47826086956522,33.0
+Trabajador_05,21,Desconocido,86.0,Buen trabajo,93.47826086956522,21.0
+Trabajador_01,54,Medellín,78.0,Sin comentarios,84.78260869565217,54.0
+Trabajador_02,38,Cali,78.0,Excelente,84.78260869565217,38.0
+Trabajador_03,31,Bogotá,78.0,Sin comentarios,84.78260869565217,31.0
+Trabajador_04,48,Bogotá,90.0,Excelente,97.82608695652173,48.0
+Trabajador_01,35,Bogotá,90.0,Excelente,97.82608695652173,35.0
+Trabajador_02,24,Cali,86.0,A mejorar,93.47826086956522,24.0
+Trabajador_01,27,Cali,78.0,Sin comentarios,84.78260869565217,27.0
+Trabajador_02,24,Barranquilla,90.0,A mejorar,97.82608695652173,24.0
+Trabajador_02,50,Medellín,85.0,Excelente,92.3913043478261,50.0
+Trabajador_02,38,Medellín,92.0,Excelente,100.0,38.0
+Trabajador_01,36,Cali,86.0,A mejorar,93.47826086956522,36.0
+Trabajador_02,36,Cali,92.0,Sin comentarios,100.0,36.0
+Trabajador_03,53,Barranquilla,78.0,Sin comentarios,84.78260869565217,53.0
+Trabajador_03,46,Desconocido,92.0,A mejorar,100.0,46.0
+Trabajador_01,35,Barranquilla,78.0,Sin comentarios,84.78260869565217,35.0
+Trabajador_05,19,Medellín,85.0,No especificado,92.3913043478261,19.0
+Trabajador_05,18,Barranquilla,92.0,Buen trabajo,100.0,18.0
+Trabajador_02,22,Bogotá,86.0,Buen trabajo,93.47826086956522,22.0
+Trabajador_04,37,Medellín,78.0,Buen trabajo,84.78260869565217,37.0
+Trabajador_02,28,Medellín,86.0,Sin comentarios,93.47826086956522,28.000000000000004
+Trabajador_01,59,Desconocido,90.0,Sin comentarios,97.82608695652173,59.0
+Trabajador_01,19,Cali,78.0,Excelente,84.78260869565217,19.0
+Trabajador_01,20,Medellín,92.0,Excelente,100.0,20.0
+Trabajador_01,40,Cali,78.0,Buen trabajo,84.78260869565217,40.0
+Trabajador_01,29,Barranquilla,86.0,No especificado,93.47826086956522,28.999999999999996
+Trabajador_03,37,Bogotá,85.0,Excelente,92.3913043478261,37.0
+Trabajador_05,22,Desconocido,78.0,Excelente,84.78260869565217,22.0
+Trabajador_01,54,Cali,92.0,Sin comentarios,100.0,54.0
+Trabajador_04,55,Medellín,90.0,No especificado,97.82608695652173,55.00000000000001
+Trabajador_04,47,Cali,85.0,Buen trabajo,92.3913043478261,47.0
+Trabajador_04,26,Medellín,90.0,Excelente,97.82608695652173,26.0
+Trabajador_04,51,Cali,78.0,No especificado,84.78260869565217,51.0
+Trabajador_03,52,Medellín,86.0,No especificado,93.47826086956522,52.0
+Trabajador_04,39,Barranquilla,86.0,Buen trabajo,93.47826086956522,39.0
+Trabajador_01,41,Medellín,92.0,No especificado,100.0,41.0
+Trabajador_02,34,Medellín,86.0,No especificado,93.47826086956522,34.0
+Trabajador_04,27,Bogotá,85.0,No especificado,92.3913043478261,27.0
+Trabajador_03,47,Medellín,86.0,Excelente,93.47826086956522,47.0
+Trabajador_03,40,Bogotá,92.0,Buen trabajo,100.0,40.0
+Trabajador_04,49,Desconocido,78.0,No especificado,84.78260869565217,49.0
+Trabajador_02,34,Bogotá,78.0,No especificado,84.78260869565217,34.0
+Trabajador_04,34,Barranquilla,86.0,Excelente,93.47826086956522,34.0
+Trabajador_03,31,Bogotá,90.0,Buen trabajo,97.82608695652173,31.0
+Trabajador_05,26,Desconocido,78.0,Sin comentarios,84.78260869565217,26.0
+Trabajador_01,57,Barranquilla,86.0,Excelente,93.47826086956522,56.99999999999999
+Trabajador_03,19,Cali,92.0,Buen trabajo,100.0,19.0
+Trabajador_04,42,Cali,86.0,No especificado,93.47826086956522,42.0
+Trabajador_01,56,Bogotá,78.0,Buen trabajo,84.78260869565217,56.00000000000001
+Trabajador_04,26,Bogotá,92.0,Buen trabajo,100.0,26.0
+Trabajador_04,39,Desconocido,86.0,Buen trabajo,93.47826086956522,39.0
+Trabajador_05,21,Desconocido,85.0,Sin comentarios,92.3913043478261,21.0
+Trabajador_01,43,Medellín,92.0,Buen trabajo,100.0,43.0
+Trabajador_01,46,Desconocido,85.0,Sin comentarios,92.3913043478261,46.0
+Trabajador_05,51,Medellín,90.0,No especificado,97.82608695652173,51.0
+Trabajador_03,40,Barranquilla,92.0,Sin comentarios,100.0,40.0
+Trabajador_04,54,Bogotá,85.0,No especificado,92.3913043478261,54.0
+Trabajador_02,28,Barranquilla,78.0,No especificado,84.78260869565217,28.000000000000004
+Trabajador_04,23,Desconocido,78.0,Sin comentarios,84.78260869565217,23.0
+Trabajador_04,35,Barranquilla,90.0,Excelente,97.82608695652173,35.0
+Trabajador_03,38,Barranquilla,92.0,A mejorar,100.0,38.0
+Trabajador_04,59,Barranquilla,92.0,Buen trabajo,100.0,59.0
+Trabajador_05,53,Desconocido,92.0,A mejorar,100.0,53.0
+Trabajador_05,58,Barranquilla,90.0,Buen trabajo,97.82608695652173,57.99999999999999
+Trabajador_01,55,Medellín,92.0,Buen trabajo,100.0,55.00000000000001
+Trabajador_02,51,Desconocido,78.0,No especificado,84.78260869565217,51.0
+Trabajador_04,34,Barranquilla,85.0,Buen trabajo,92.3913043478261,34.0
+Trabajador_04,54,Desconocido,78.0,Buen trabajo,84.78260869565217,54.0
+Trabajador_03,42,Cali,78.0,Sin comentarios,84.78260869565217,42.0
+Trabajador_05,55,Medellín,85.0,A mejorar,92.3913043478261,55.00000000000001
+Trabajador_02,29,Barranquilla,78.0,Sin comentarios,84.78260869565217,28.999999999999996
+Trabajador_01,40,Cali,90.0,Buen trabajo,97.82608695652173,40.0
+Trabajador_05,59,Cali,85.0,No especificado,92.3913043478261,59.0
+Trabajador_01,39,Desconocido,78.0,Sin comentarios,84.78260869565217,39.0
+Trabajador_03,38,Cali,86.0,Sin comentarios,93.47826086956522,38.0
+Trabajador_03,44,Medellín,78.0,Excelente,84.78260869565217,44.0
+Trabajador_04,48,Medellín,90.0,Buen trabajo,97.82608695652173,48.0
+Trabajador_02,23,Bogotá,92.0,No especificado,100.0,23.0
+Trabajador_01,44,Medellín,78.0,Sin comentarios,84.78260869565217,44.0
+Trabajador_05,57,Cali,92.0,Sin comentarios,100.0,56.99999999999999
+Trabajador_03,51,Medellín,86.0,No especificado,93.47826086956522,51.0
+Trabajador_04,29,Desconocido,78.0,Buen trabajo,84.78260869565217,28.999999999999996
+Trabajador_04,24,Bogotá,85.0,Excelente,92.3913043478261,24.0
+Trabajador_01,27,Cali,92.0,Sin comentarios,100.0,27.0
+Trabajador_03,34,Bogotá,86.0,Excelente,93.47826086956522,34.0
+Trabajador_02,43,Cali,85.0,A mejorar,92.3913043478261,43.0
+Trabajador_03,38,Desconocido,85.0,Buen trabajo,92.3913043478261,38.0
+Trabajador_01,38,Bogotá,85.0,A mejorar,92.3913043478261,38.0
+Trabajador_01,19,Barranquilla,85.0,A mejorar,92.3913043478261,19.0
+Trabajador_03,18,Cali,78.0,A mejorar,84.78260869565217,18.0
+Trabajador_01,53,Barranquilla,78.0,Buen trabajo,84.78260869565217,53.0
+Trabajador_03,43,Bogotá,78.0,Buen trabajo,84.78260869565217,43.0
+Trabajador_05,46,Barranquilla,86.0,No especificado,93.47826086956522,46.0
+Trabajador_03,38,Barranquilla,86.0,Excelente,93.47826086956522,38.0
+Trabajador_03,28,Bogotá,86.0,Excelente,93.47826086956522,28.000000000000004
+Trabajador_01,57,Desconocido,90.0,No especificado,97.82608695652173,56.99999999999999
+Trabajador_01,28,Barranquilla,86.0,No especificado,93.47826086956522,28.000000000000004
+Trabajador_04,53,Barranquilla,78.0,A mejorar,84.78260869565217,53.0
+Trabajador_04,56,Desconocido,78.0,No especificado,84.78260869565217,56.00000000000001
+Trabajador_05,57,Barranquilla,90.0,Sin comentarios,97.82608695652173,56.99999999999999
+Trabajador_04,52,Barranquilla,90.0,No especificado,97.82608695652173,52.0
+Trabajador_01,41,Medellín,86.0,Sin comentarios,93.47826086956522,41.0
+Trabajador_04,39,Desconocido,90.0,Sin comentarios,97.82608695652173,39.0
+Trabajador_04,22,Barranquilla,85.0,Sin comentarios,92.3913043478261,22.0
+Trabajador_05,50,Desconocido,78.0,Sin comentarios,84.78260869565217,50.0
+Trabajador_05,53,Cali,85.0,A mejorar,92.3913043478261,53.0
+Trabajador_03,37,Cali,78.0,Sin comentarios,84.78260869565217,37.0
+Trabajador_01,36,Barranquilla,78.0,A mejorar,84.78260869565217,36.0
+Trabajador_05,52,Desconocido,90.0,A mejorar,97.82608695652173,52.0
+Trabajador_04,34,Desconocido,90.0,Sin comentarios,97.82608695652173,34.0
+Trabajador_01,51,Desconocido,85.0,Excelente,92.3913043478261,51.0
+Trabajador_01,26,Medellín,78.0,Sin comentarios,84.78260869565217,26.0
+Trabajador_04,43,Cali,85.0,Sin comentarios,92.3913043478261,43.0
+Trabajador_05,19,Desconocido,92.0,Sin comentarios,100.0,19.0
+Trabajador_04,26,Desconocido,85.0,Excelente,92.3913043478261,26.0
+Trabajador_01,26,Medellín,86.0,Buen trabajo,93.47826086956522,26.0
+Trabajador_02,57,Medellín,85.0,Buen trabajo,92.3913043478261,56.99999999999999
+Trabajador_02,34,Desconocido,86.0,A mejorar,93.47826086956522,34.0
+Trabajador_03,18,Bogotá,86.0,A mejorar,93.47826086956522,18.0
+Trabajador_04,42,Desconocido,86.0,Excelente,93.47826086956522,42.0
+Trabajador_04,57,Desconocido,92.0,No especificado,100.0,56.99999999999999
+Trabajador_03,59,Medellín,85.0,Buen trabajo,92.3913043478261,59.0
+Trabajador_03,42,Medellín,85.0,A mejorar,92.3913043478261,42.0
+Trabajador_03,56,Desconocido,92.0,Buen trabajo,100.0,56.00000000000001
+Trabajador_01,52,Desconocido,78.0,Excelente,84.78260869565217,52.0
+Trabajador_04,20,Desconocido,90.0,Excelente,97.82608695652173,20.0
+Trabajador_01,54,Medellín,85.0,No especificado,92.3913043478261,54.0
+Trabajador_03,47,Desconocido,90.0,No especificado,97.82608695652173,47.0
+Trabajador_04,55,Desconocido,92.0,Excelente,100.0,55.00000000000001
+Trabajador_01,51,Barranquilla,78.0,A mejorar,84.78260869565217,51.0
+Trabajador_01,38,Bogotá,78.0,Buen trabajo,84.78260869565217,38.0
+Trabajador_03,36,Cali,78.0,Sin comentarios,84.78260869565217,36.0
+Trabajador_04,54,Bogotá,92.0,No especificado,100.0,54.0
+Trabajador_03,34,Barranquilla,86.0,Sin comentarios,93.47826086956522,34.0
+Trabajador_04,27,Cali,86.0,A mejorar,93.47826086956522,27.0
+Trabajador_02,29,Desconocido,90.0,No especificado,97.82608695652173,28.999999999999996
+Trabajador_05,33,Barranquilla,86.0,Sin comentarios,93.47826086956522,33.0
+Trabajador_05,41,Desconocido,86.0,A mejorar,93.47826086956522,41.0
+Trabajador_05,36,Medellín,78.0,Buen trabajo,84.78260869565217,36.0
+Trabajador_03,25,Barranquilla,78.0,A mejorar,84.78260869565217,25.0
+Trabajador_02,48,Medellín,90.0,No especificado,97.82608695652173,48.0
+Trabajador_04,38,Barranquilla,85.0,Excelente,92.3913043478261,38.0
+Trabajador_01,34,Barranquilla,90.0,Buen trabajo,97.82608695652173,34.0
+Trabajador_04,40,Medellín,90.0,Sin comentarios,97.82608695652173,40.0
+Trabajador_01,54,Cali,92.0,No especificado,100.0,54.0
+Trabajador_04,33,Bogotá,92.0,Excelente,100.0,33.0
+Trabajador_02,23,Desconocido,90.0,A mejorar,97.82608695652173,23.0
+Trabajador_01,25,Barranquilla,90.0,Excelente,97.82608695652173,25.0
+Trabajador_03,42,Desconocido,90.0,No especificado,97.82608695652173,42.0
+Trabajador_04,35,Medellín,86.0,No especificado,93.47826086956522,35.0
+Trabajador_04,42,Desconocido,92.0,No especificado,100.0,42.0
+Trabajador_01,29,Medellín,90.0,A mejorar,97.82608695652173,28.999999999999996
+Trabajador_03,32,Desconocido,78.0,Excelente,84.78260869565217,32.0
+Trabajador_03,43,Bogotá,78.0,No especificado,84.78260869565217,43.0
+Trabajador_02,58,Bogotá,86.0,No especificado,93.47826086956522,57.99999999999999
+Trabajador_03,43,Bogotá,86.0,Sin comentarios,93.47826086956522,43.0
+Trabajador_03,49,Bogotá,85.0,Sin comentarios,92.3913043478261,49.0
+Trabajador_03,27,Bogotá,85.0,Buen trabajo,92.3913043478261,27.0
+Trabajador_05,33,Bogotá,85.0,No especificado,92.3913043478261,33.0
+Trabajador_02,24,Medellín,86.0,Sin comentarios,93.47826086956522,24.0
+Trabajador_01,40,Desconocido,86.0,A mejorar,93.47826086956522,40.0
+Trabajador_04,43,Bogotá,78.0,Excelente,84.78260869565217,43.0
+Trabajador_02,38,Medellín,86.0,A mejorar,93.47826086956522,38.0
+Trabajador_01,39,Medellín,78.0,Sin comentarios,84.78260869565217,39.0
+Trabajador_02,24,Medellín,85.0,Buen trabajo,92.3913043478261,24.0
+Trabajador_03,31,Barranquilla,85.0,Excelente,92.3913043478261,31.0
+Trabajador_01,32,Desconocido,85.0,Excelente,92.3913043478261,32.0
+Trabajador_03,38,Barranquilla,90.0,Excelente,97.82608695652173,38.0
+Trabajador_04,26,Cali,90.0,A mejorar,97.82608695652173,26.0
+Trabajador_04,25,Medellín,92.0,Sin comentarios,100.0,25.0
+Trabajador_01,40,Cali,92.0,Excelente,100.0,40.0
+Trabajador_01,46,Bogotá,92.0,Excelente,100.0,46.0
+Trabajador_02,35,Bogotá,90.0,Buen trabajo,97.82608695652173,35.0
+Trabajador_02,48,Barranquilla,90.0,Buen trabajo,97.82608695652173,48.0
+Trabajador_03,47,Desconocido,92.0,Sin comentarios,100.0,47.0
+Trabajador_01,56,Cali,92.0,Sin comentarios,100.0,56.00000000000001
+Trabajador_04,52,Desconocido,86.0,No especificado,93.47826086956522,52.0
+Trabajador_02,35,Barranquilla,92.0,Buen trabajo,100.0,35.0
+Trabajador_02,59,Bogotá,86.0,No especificado,93.47826086956522,59.0
+Trabajador_04,56,Desconocido,78.0,A mejorar,84.78260869565217,56.00000000000001
+Trabajador_02,34,Desconocido,90.0,No especificado,97.82608695652173,34.0
+Trabajador_03,31,Bogotá,92.0,Excelente,100.0,31.0
+Trabajador_01,48,Cali,90.0,No especificado,97.82608695652173,48.0
+Trabajador_04,41,Bogotá,90.0,Sin comentarios,97.82608695652173,41.0
+Trabajador_01,52,Desconocido,90.0,A mejorar,97.82608695652173,52.0
+Trabajador_02,51,Cali,78.0,Excelente,84.78260869565217,51.0
+Trabajador_02,20,Desconocido,85.0,No especificado,92.3913043478261,20.0
+Trabajador_04,54,Bogotá,92.0,A mejorar,100.0,54.0
+Trabajador_03,57,Desconocido,85.0,A mejorar,92.3913043478261,56.99999999999999
+Trabajador_05,43,Barranquilla,85.0,Excelente,92.3913043478261,43.0
+Trabajador_04,40,Desconocido,85.0,No especificado,92.3913043478261,40.0
+Trabajador_05,56,Medellín,90.0,A mejorar,97.82608695652173,56.00000000000001
+Trabajador_05,32,Barranquilla,86.0,A mejorar,93.47826086956522,32.0
+Trabajador_03,21,Cali,90.0,Buen trabajo,97.82608695652173,21.0
+Trabajador_05,46,Barranquilla,90.0,A mejorar,97.82608695652173,46.0
+Trabajador_05,39,Cali,85.0,Buen trabajo,92.3913043478261,39.0
+Trabajador_03,42,Cali,90.0,No especificado,97.82608695652173,42.0
+Trabajador_05,30,Barranquilla,85.0,No especificado,92.3913043478261,30.0
+Trabajador_05,35,Cali,86.0,No especificado,93.47826086956522,35.0
+Trabajador_05,50,Cali,92.0,Sin comentarios,100.0,50.0
+Trabajador_04,33,Medellín,85.0,No especificado,92.3913043478261,33.0
+Trabajador_04,59,Desconocido,86.0,A mejorar,93.47826086956522,59.0
+Trabajador_04,19,Desconocido,92.0,Excelente,100.0,19.0
+Trabajador_03,52,Medellín,78.0,Buen trabajo,84.78260869565217,52.0
+Trabajador_02,59,Barranquilla,85.0,Sin comentarios,92.3913043478261,59.0
+Trabajador_05,51,Bogotá,85.0,No especificado,92.3913043478261,51.0
+Trabajador_05,47,Bogotá,78.0,No especificado,84.78260869565217,47.0
+Trabajador_03,30,Bogotá,78.0,Excelente,84.78260869565217,30.0
+Trabajador_05,30,Medellín,85.0,Excelente,92.3913043478261,30.0
+Trabajador_04,35,Medellín,78.0,Sin comentarios,84.78260869565217,35.0
+Trabajador_02,49,Cali,90.0,Buen trabajo,97.82608695652173,49.0
+Trabajador_01,49,Bogotá,86.0,No especificado,93.47826086956522,49.0
+Trabajador_05,52,Barranquilla,92.0,Sin comentarios,100.0,52.0
+Trabajador_04,56,Barranquilla,92.0,A mejorar,100.0,56.00000000000001
+Trabajador_01,46,Bogotá,90.0,A mejorar,97.82608695652173,46.0
+Trabajador_02,46,Bogotá,78.0,Sin comentarios,84.78260869565217,46.0
+Trabajador_01,33,Bogotá,86.0,No especificado,93.47826086956522,33.0
+Trabajador_04,27,Medellín,78.0,Sin comentarios,84.78260869565217,27.0
+Trabajador_01,47,Medellín,85.0,No especificado,92.3913043478261,47.0
+Trabajador_03,42,Medellín,92.0,Excelente,100.0,42.0
+Trabajador_01,56,Desconocido,78.0,Sin comentarios,84.78260869565217,56.00000000000001
+Trabajador_05,37,Barranquilla,86.0,No especificado,93.47826086956522,37.0
+Trabajador_05,22,Barranquilla,85.0,Sin comentarios,92.3913043478261,22.0
+Trabajador_03,18,Cali,90.0,Sin comentarios,97.82608695652173,18.0
+Trabajador_04,47,Medellín,90.0,No especificado,97.82608695652173,47.0
+Trabajador_05,20,Desconocido,86.0,No especificado,93.47826086956522,20.0
+Trabajador_02,31,Desconocido,85.0,Buen trabajo,92.3913043478261,31.0
+Trabajador_05,47,Barranquilla,92.0,Sin comentarios,100.0,47.0
+Trabajador_05,38,Medellín,78.0,A mejorar,84.78260869565217,38.0
+Trabajador_04,35,Cali,85.0,Sin comentarios,92.3913043478261,35.0
+Trabajador_01,54,Medellín,90.0,Sin comentarios,97.82608695652173,54.0
+Trabajador_05,42,Bogotá,86.0,No especificado,93.47826086956522,42.0
+Trabajador_03,18,Medellín,86.0,Sin comentarios,93.47826086956522,18.0
+Trabajador_01,32,Bogotá,78.0,Sin comentarios,84.78260869565217,32.0
+Trabajador_02,26,Bogotá,86.0,A mejorar,93.47826086956522,26.0
+Trabajador_04,32,Cali,86.0,No especificado,93.47826086956522,32.0
+Trabajador_02,41,Barranquilla,85.0,Sin comentarios,92.3913043478261,41.0
+Trabajador_01,21,Desconocido,92.0,Excelente,100.0,21.0
+Trabajador_01,29,Bogotá,78.0,Buen trabajo,84.78260869565217,28.999999999999996
+Trabajador_01,54,Medellín,85.0,A mejorar,92.3913043478261,54.0
+Trabajador_02,54,Barranquilla,92.0,Sin comentarios,100.0,54.0
+Trabajador_01,23,Barranquilla,85.0,Excelente,92.3913043478261,23.0
+Trabajador_02,56,Desconocido,85.0,Sin comentarios,92.3913043478261,56.00000000000001
+Trabajador_01,41,Barranquilla,86.0,Sin comentarios,93.47826086956522,41.0
+Trabajador_03,28,Cali,92.0,No especificado,100.0,28.000000000000004
+Trabajador_01,30,Bogotá,78.0,No especificado,84.78260869565217,30.0
+Trabajador_05,42,Cali,92.0,Excelente,100.0,42.0
+Trabajador_01,24,Medellín,86.0,Sin comentarios,93.47826086956522,24.0
+Trabajador_05,21,Bogotá,90.0,Buen trabajo,97.82608695652173,21.0
+Trabajador_03,25,Barranquilla,85.0,A mejorar,92.3913043478261,25.0
+Trabajador_04,37,Bogotá,86.0,No especificado,93.47826086956522,37.0
+Trabajador_03,46,Medellín,92.0,No especificado,100.0,46.0
+Trabajador_01,27,Desconocido,85.0,Sin comentarios,92.3913043478261,27.0
+Trabajador_05,51,Desconocido,78.0,Sin comentarios,84.78260869565217,51.0
+Trabajador_05,43,Desconocido,90.0,Excelente,97.82608695652173,43.0
+Trabajador_02,58,Barranquilla,78.0,Excelente,84.78260869565217,57.99999999999999
+Trabajador_05,20,Cali,92.0,No especificado,100.0,20.0
+Trabajador_02,23,Cali,85.0,Sin comentarios,92.3913043478261,23.0
+Trabajador_04,22,Bogotá,92.0,Buen trabajo,100.0,22.0
+Trabajador_01,22,Barranquilla,85.0,A mejorar,92.3913043478261,22.0
+Trabajador_02,40,Desconocido,86.0,Sin comentarios,93.47826086956522,40.0
+Trabajador_04,26,Desconocido,90.0,Sin comentarios,97.82608695652173,26.0
+Trabajador_05,52,Desconocido,86.0,Excelente,93.47826086956522,52.0
+Trabajador_05,37,Medellín,86.0,A mejorar,93.47826086956522,37.0
+Trabajador_04,59,Desconocido,92.0,No especificado,100.0,59.0
+Trabajador_05,52,Desconocido,90.0,Sin comentarios,97.82608695652173,52.0
+Trabajador_04,35,Barranquilla,85.0,No especificado,92.3913043478261,35.0
+Trabajador_02,34,Cali,86.0,Sin comentarios,93.47826086956522,34.0
+Trabajador_02,41,Medellín,78.0,No especificado,84.78260869565217,41.0
+Trabajador_04,20,Cali,85.0,A mejorar,92.3913043478261,20.0
+Trabajador_02,49,Barranquilla,92.0,Excelente,100.0,49.0
+Trabajador_02,52,Desconocido,86.0,A mejorar,93.47826086956522,52.0
+Trabajador_02,55,Cali,86.0,Buen trabajo,93.47826086956522,55.00000000000001
+Trabajador_03,30,Desconocido,86.0,Excelente,93.47826086956522,30.0
+Trabajador_01,42,Desconocido,90.0,A mejorar,97.82608695652173,42.0
+Trabajador_05,26,Bogotá,85.0,Buen trabajo,92.3913043478261,26.0
+Trabajador_03,21,Cali,92.0,Sin comentarios,100.0,21.0
+Trabajador_02,31,Cali,90.0,Sin comentarios,97.82608695652173,31.0
+Trabajador_04,54,Desconocido,78.0,No especificado,84.78260869565217,54.0
+Trabajador_02,51,Barranquilla,92.0,Excelente,100.0,51.0
+Trabajador_01,28,Bogotá,92.0,Sin comentarios,100.0,28.000000000000004
+Trabajador_02,58,Desconocido,92.0,Excelente,100.0,57.99999999999999
+Trabajador_04,20,Medellín,86.0,Sin comentarios,93.47826086956522,20.0
+Trabajador_01,45,Medellín,92.0,No especificado,100.0,45.0
+Trabajador_02,46,Bogotá,85.0,A mejorar,92.3913043478261,46.0
+Trabajador_01,26,Barranquilla,92.0,No especificado,100.0,26.0
+Trabajador_05,20,Desconocido,86.0,Buen trabajo,93.47826086956522,20.0
+Trabajador_05,42,Cali,92.0,Sin comentarios,100.0,42.0
+Trabajador_02,51,Bogotá,78.0,Buen trabajo,84.78260869565217,51.0
+Trabajador_01,29,Barranquilla,78.0,Buen trabajo,84.78260869565217,28.999999999999996
+Trabajador_04,59,Cali,86.0,Excelente,93.47826086956522,59.0
+Trabajador_05,32,Medellín,85.0,Buen trabajo,92.3913043478261,32.0
+Trabajador_05,57,Cali,90.0,A mejorar,97.82608695652173,56.99999999999999
+Trabajador_02,42,Bogotá,86.0,Buen trabajo,93.47826086956522,42.0
+Trabajador_01,22,Medellín,92.0,A mejorar,100.0,22.0
+Trabajador_05,28,Desconocido,86.0,Excelente,93.47826086956522,28.000000000000004
+Trabajador_01,51,Cali,90.0,Buen trabajo,97.82608695652173,51.0
+Trabajador_05,41,Cali,86.0,No especificado,93.47826086956522,41.0
+Trabajador_05,32,Medellín,86.0,Excelente,93.47826086956522,32.0
+Trabajador_03,55,Bogotá,90.0,A mejorar,97.82608695652173,55.00000000000001
+Trabajador_05,25,Desconocido,85.0,Excelente,92.3913043478261,25.0
+Trabajador_02,43,Barranquilla,90.0,Sin comentarios,97.82608695652173,43.0
+Trabajador_02,35,Barranquilla,78.0,Sin comentarios,84.78260869565217,35.0
+Trabajador_01,23,Medellín,85.0,A mejorar,92.3913043478261,23.0
+Trabajador_05,54,Medellín,78.0,A mejorar,84.78260869565217,54.0
+Trabajador_04,30,Medellín,85.0,Sin comentarios,92.3913043478261,30.0
+Trabajador_01,45,Barranquilla,92.0,A mejorar,100.0,45.0
+Trabajador_03,22,Bogotá,92.0,Excelente,100.0,22.0
+Trabajador_01,30,Bogotá,86.0,No especificado,93.47826086956522,30.0
+Trabajador_01,34,Medellín,78.0,No especificado,84.78260869565217,34.0
+Trabajador_05,57,Desconocido,85.0,Excelente,92.3913043478261,56.99999999999999
+Trabajador_03,49,Bogotá,92.0,No especificado,100.0,49.0
+Trabajador_01,46,Barranquilla,90.0,Buen trabajo,97.82608695652173,46.0
+Trabajador_04,20,Cali,92.0,Excelente,100.0,20.0
+Trabajador_04,57,Cali,90.0,A mejorar,97.82608695652173,56.99999999999999
+Trabajador_02,51,Cali,85.0,Excelente,92.3913043478261,51.0
+Trabajador_03,57,Desconocido,92.0,Sin comentarios,100.0,56.99999999999999
+Trabajador_03,44,Medellín,92.0,A mejorar,100.0,44.0
+Trabajador_02,30,Barranquilla,85.0,Sin comentarios,92.3913043478261,30.0
+Trabajador_01,50,Desconocido,86.0,A mejorar,93.47826086956522,50.0
+Trabajador_03,23,Barranquilla,90.0,No especificado,97.82608695652173,23.0
+Trabajador_04,41,Barranquilla,92.0,Excelente,100.0,41.0
+Trabajador_04,36,Medellín,78.0,Buen trabajo,84.78260869565217,36.0
+Trabajador_05,33,Cali,86.0,A mejorar,93.47826086956522,33.0
+Trabajador_03,57,Medellín,90.0,A mejorar,97.82608695652173,56.99999999999999
+Trabajador_01,45,Desconocido,78.0,Sin comentarios,84.78260869565217,45.0
+Trabajador_02,50,Desconocido,85.0,No especificado,92.3913043478261,50.0
+Trabajador_02,58,Desconocido,90.0,Sin comentarios,97.82608695652173,57.99999999999999
+Trabajador_01,30,Medellín,86.0,Sin comentarios,93.47826086956522,30.0
+Trabajador_05,42,Barranquilla,86.0,No especificado,93.47826086956522,42.0
+Trabajador_02,59,Barranquilla,85.0,Buen trabajo,92.3913043478261,59.0
+Trabajador_03,53,Bogotá,85.0,Sin comentarios,92.3913043478261,53.0
+Trabajador_05,44,Desconocido,90.0,Sin comentarios,97.82608695652173,44.0
+Trabajador_03,55,Barranquilla,92.0,A mejorar,100.0,55.00000000000001
+Trabajador_04,24,Bogotá,85.0,No especificado,92.3913043478261,24.0
+Trabajador_05,22,Barranquilla,92.0,Excelente,100.0,22.0
+Trabajador_02,48,Desconocido,78.0,Buen trabajo,84.78260869565217,48.0
+Trabajador_05,40,Cali,86.0,Buen trabajo,93.47826086956522,40.0
+Trabajador_05,59,Desconocido,92.0,No especificado,100.0,59.0
+Trabajador_05,27,Medellín,86.0,A mejorar,93.47826086956522,27.0
+Trabajador_05,49,Barranquilla,92.0,A mejorar,100.0,49.0
+Trabajador_03,47,Barranquilla,78.0,No especificado,84.78260869565217,47.0
+Trabajador_04,56,Medellín,85.0,A mejorar,92.3913043478261,56.00000000000001
+Trabajador_01,48,Medellín,78.0,Buen trabajo,84.78260869565217,48.0
+Trabajador_05,35,Cali,85.0,Buen trabajo,92.3913043478261,35.0
+Trabajador_02,53,Barranquilla,85.0,Excelente,92.3913043478261,53.0
+Trabajador_05,19,Barranquilla,86.0,No especificado,93.47826086956522,19.0
+Trabajador_02,31,Cali,78.0,Sin comentarios,84.78260869565217,31.0
+Trabajador_03,30,Bogotá,92.0,Sin comentarios,100.0,30.0
+Trabajador_02,46,Cali,78.0,Excelente,84.78260869565217,46.0
+Trabajador_01,29,Desconocido,86.0,Excelente,93.47826086956522,28.999999999999996
+Trabajador_04,56,Barranquilla,85.0,A mejorar,92.3913043478261,56.00000000000001
+Trabajador_02,19,Medellín,86.0,Excelente,93.47826086956522,19.0
+Trabajador_02,49,Desconocido,90.0,Excelente,97.82608695652173,49.0
+Trabajador_04,30,Barranquilla,90.0,Sin comentarios,97.82608695652173,30.0
+Trabajador_01,44,Cali,92.0,A mejorar,100.0,44.0
+Trabajador_05,58,Desconocido,86.0,Excelente,93.47826086956522,57.99999999999999
+Trabajador_02,34,Barranquilla,92.0,Excelente,100.0,34.0
+Trabajador_04,57,Bogotá,92.0,A mejorar,100.0,56.99999999999999
+Trabajador_03,48,Bogotá,90.0,No especificado,97.82608695652173,48.0
+Trabajador_04,51,Medellín,92.0,A mejorar,100.0,51.0
+Trabajador_03,41,Barranquilla,90.0,Sin comentarios,97.82608695652173,41.0
+Trabajador_01,52,Bogotá,85.0,No especificado,92.3913043478261,52.0
+Trabajador_05,23,Cali,86.0,Buen trabajo,93.47826086956522,23.0
+Trabajador_04,36,Barranquilla,92.0,A mejorar,100.0,36.0
+Trabajador_02,47,Cali,90.0,Sin comentarios,97.82608695652173,47.0
+Trabajador_01,24,Cali,78.0,No especificado,84.78260869565217,24.0
+Trabajador_04,27,Bogotá,92.0,A mejorar,100.0,27.0
+Trabajador_02,58,Barranquilla,85.0,Excelente,92.3913043478261,57.99999999999999
+Trabajador_04,49,Desconocido,85.0,A mejorar,92.3913043478261,49.0
+Trabajador_03,51,Bogotá,78.0,Buen trabajo,84.78260869565217,51.0
+Trabajador_04,45,Bogotá,90.0,A mejorar,97.82608695652173,45.0
+Trabajador_04,32,Barranquilla,92.0,No especificado,100.0,32.0
+Trabajador_04,47,Barranquilla,90.0,No especificado,97.82608695652173,47.0
+Trabajador_01,54,Cali,85.0,A mejorar,92.3913043478261,54.0
+Trabajador_04,46,Barranquilla,86.0,No especificado,93.47826086956522,46.0
+Trabajador_02,39,Cali,85.0,Excelente,92.3913043478261,39.0
+Trabajador_03,21,Bogotá,90.0,A mejorar,97.82608695652173,21.0
+Trabajador_03,37,Medellín,78.0,Excelente,84.78260869565217,37.0
+Trabajador_04,49,Desconocido,86.0,Excelente,93.47826086956522,49.0
+Trabajador_01,53,Bogotá,78.0,Sin comentarios,84.78260869565217,53.0
+Trabajador_01,21,Barranquilla,78.0,A mejorar,84.78260869565217,21.0
+Trabajador_02,44,Desconocido,86.0,No especificado,93.47826086956522,44.0
+Trabajador_04,34,Medellín,86.0,Excelente,93.47826086956522,34.0
+Trabajador_03,29,Medellín,92.0,Sin comentarios,100.0,28.999999999999996
+Trabajador_01,39,Cali,92.0,A mejorar,100.0,39.0
+Trabajador_04,34,Desconocido,78.0,A mejorar,84.78260869565217,34.0
+Trabajador_01,27,Cali,78.0,Buen trabajo,84.78260869565217,27.0
+Trabajador_01,18,Bogotá,85.0,Buen trabajo,92.3913043478261,18.0
+Trabajador_03,39,Desconocido,85.0,Excelente,92.3913043478261,39.0
+Trabajador_05,43,Bogotá,92.0,Buen trabajo,100.0,43.0
+Trabajador_02,35,Cali,92.0,Excelente,100.0,35.0
+Trabajador_02,31,Desconocido,85.0,No especificado,92.3913043478261,31.0
+Trabajador_03,46,Cali,85.0,Excelente,92.3913043478261,46.0
+Trabajador_01,29,Desconocido,90.0,Buen trabajo,97.82608695652173,28.999999999999996
+Trabajador_04,53,Cali,90.0,No especificado,97.82608695652173,53.0
+Trabajador_01,52,Medellín,85.0,Buen trabajo,92.3913043478261,52.0
+Trabajador_03,29,Cali,90.0,Excelente,97.82608695652173,28.999999999999996
+Trabajador_01,46,Cali,92.0,A mejorar,100.0,46.0
+Trabajador_02,28,Desconocido,92.0,Buen trabajo,100.0,28.000000000000004
+Trabajador_04,50,Desconocido,85.0,Excelente,92.3913043478261,50.0
+Trabajador_02,23,Desconocido,78.0,No especificado,84.78260869565217,23.0
+Trabajador_02,32,Barranquilla,85.0,Buen trabajo,92.3913043478261,32.0
+Trabajador_05,49,Bogotá,90.0,Buen trabajo,97.82608695652173,49.0
+Trabajador_05,28,Desconocido,78.0,A mejorar,84.78260869565217,28.000000000000004
+Trabajador_05,40,Medellín,90.0,Excelente,97.82608695652173,40.0
+Trabajador_02,43,Desconocido,86.0,Sin comentarios,93.47826086956522,43.0
+Trabajador_03,51,Barranquilla,90.0,No especificado,97.82608695652173,51.0
+Trabajador_02,51,Medellín,86.0,Excelente,93.47826086956522,51.0
+Trabajador_03,46,Barranquilla,86.0,No especificado,93.47826086956522,46.0
+Trabajador_03,21,Medellín,90.0,Buen trabajo,97.82608695652173,21.0
+Trabajador_05,34,Cali,90.0,A mejorar,97.82608695652173,34.0
+Trabajador_01,52,Bogotá,86.0,A mejorar,93.47826086956522,52.0
+Trabajador_04,30,Bogotá,78.0,Sin comentarios,84.78260869565217,30.0
+Trabajador_05,58,Barranquilla,86.0,A mejorar,93.47826086956522,57.99999999999999
+Trabajador_05,56,Bogotá,92.0,Buen trabajo,100.0,56.00000000000001
+Trabajador_01,32,Barranquilla,86.0,Sin comentarios,93.47826086956522,32.0
+Trabajador_04,46,Barranquilla,78.0,Excelente,84.78260869565217,46.0
+Trabajador_02,46,Barranquilla,92.0,A mejorar,100.0,46.0
+Trabajador_02,28,Bogotá,85.0,Sin comentarios,92.3913043478261,28.000000000000004
+Trabajador_05,49,Barranquilla,85.0,Buen trabajo,92.3913043478261,49.0
+Trabajador_04,19,Bogotá,78.0,No especificado,84.78260869565217,19.0
+Trabajador_05,31,Desconocido,86.0,No especificado,93.47826086956522,31.0
+Trabajador_03,37,Desconocido,90.0,Buen trabajo,97.82608695652173,37.0
+Trabajador_05,39,Barranquilla,78.0,Buen trabajo,84.78260869565217,39.0
+Trabajador_05,28,Medellín,92.0,No especificado,100.0,28.000000000000004
+Trabajador_02,44,Barranquilla,92.0,Sin comentarios,100.0,44.0
+Trabajador_02,20,Cali,85.0,No especificado,92.3913043478261,20.0
+Trabajador_02,34,Barranquilla,92.0,Buen trabajo,100.0,34.0
+Trabajador_03,45,Medellín,78.0,A mejorar,84.78260869565217,45.0
+Trabajador_02,46,Medellín,92.0,Excelente,100.0,46.0
+Trabajador_04,38,Bogotá,78.0,A mejorar,84.78260869565217,38.0
+Trabajador_01,33,Desconocido,90.0,A mejorar,97.82608695652173,33.0
+Trabajador_04,54,Barranquilla,85.0,Buen trabajo,92.3913043478261,54.0
+Trabajador_04,37,Bogotá,92.0,No especificado,100.0,37.0
+Trabajador_02,23,Desconocido,78.0,Sin comentarios,84.78260869565217,23.0
+Trabajador_01,36,Barranquilla,86.0,A mejorar,93.47826086956522,36.0
+Trabajador_01,22,Cali,85.0,No especificado,92.3913043478261,22.0
+Trabajador_01,20,Barranquilla,90.0,Sin comentarios,97.82608695652173,20.0
+Trabajador_03,18,Medellín,78.0,A mejorar,84.78260869565217,18.0
+Trabajador_02,55,Desconocido,90.0,Sin comentarios,97.82608695652173,55.00000000000001
+Trabajador_01,32,Cali,90.0,No especificado,97.82608695652173,32.0
+Trabajador_03,51,Bogotá,92.0,Excelente,100.0,51.0
+Trabajador_05,52,Desconocido,92.0,No especificado,100.0,52.0
+Trabajador_05,42,Barranquilla,78.0,Buen trabajo,84.78260869565217,42.0
+Trabajador_03,41,Medellín,86.0,Sin comentarios,93.47826086956522,41.0
+Trabajador_03,29,Bogotá,78.0,Excelente,84.78260869565217,28.999999999999996
+Trabajador_02,35,Cali,86.0,Sin comentarios,93.47826086956522,35.0
+Trabajador_02,32,Medellín,90.0,Sin comentarios,97.82608695652173,32.0
+Trabajador_05,33,Cali,85.0,A mejorar,92.3913043478261,33.0
+Trabajador_01,44,Barranquilla,78.0,Buen trabajo,84.78260869565217,44.0
+Trabajador_05,25,Desconocido,78.0,Sin comentarios,84.78260869565217,25.0
+Trabajador_01,42,Medellín,86.0,No especificado,93.47826086956522,42.0
+Trabajador_01,34,Medellín,90.0,No especificado,97.82608695652173,34.0
+Trabajador_02,46,Barranquilla,86.0,A mejorar,93.47826086956522,46.0
+Trabajador_04,25,Bogotá,86.0,Buen trabajo,93.47826086956522,25.0
+Trabajador_04,32,Desconocido,90.0,Buen trabajo,97.82608695652173,32.0
+Trabajador_03,44,Medellín,92.0,No especificado,100.0,44.0
+Trabajador_02,24,Desconocido,85.0,Excelente,92.3913043478261,24.0
+Trabajador_01,20,Medellín,78.0,A mejorar,84.78260869565217,20.0
+Trabajador_04,46,Desconocido,85.0,A mejorar,92.3913043478261,46.0
+Trabajador_01,41,Cali,78.0,No especificado,84.78260869565217,41.0
+Trabajador_04,20,Medellín,92.0,No especificado,100.0,20.0
+Trabajador_04,37,Desconocido,90.0,Excelente,97.82608695652173,37.0
+Trabajador_04,32,Bogotá,86.0,Excelente,93.47826086956522,32.0
+Trabajador_02,42,Cali,92.0,Buen trabajo,100.0,42.0
+Trabajador_05,47,Cali,85.0,A mejorar,92.3913043478261,47.0
+Trabajador_01,31,Bogotá,86.0,A mejorar,93.47826086956522,31.0
+Trabajador_02,24,Desconocido,90.0,No especificado,97.82608695652173,24.0
+Trabajador_02,38,Barranquilla,92.0,Buen trabajo,100.0,38.0
+Trabajador_02,37,Bogotá,86.0,A mejorar,93.47826086956522,37.0
+Trabajador_02,53,Desconocido,92.0,Buen trabajo,100.0,53.0
+Trabajador_02,26,Bogotá,92.0,Buen trabajo,100.0,26.0
+Trabajador_03,55,Bogotá,90.0,No especificado,97.82608695652173,55.00000000000001
+Trabajador_01,39,Medellín,78.0,Buen trabajo,84.78260869565217,39.0
+Trabajador_02,19,Desconocido,86.0,Excelente,93.47826086956522,19.0
+Trabajador_01,41,Barranquilla,90.0,Excelente,97.82608695652173,41.0
+Trabajador_03,25,Medellín,92.0,Sin comentarios,100.0,25.0
+Trabajador_03,28,Bogotá,90.0,No especificado,97.82608695652173,28.000000000000004
+Trabajador_01,30,Bogotá,78.0,Sin comentarios,84.78260869565217,30.0
+Trabajador_04,34,Bogotá,86.0,Excelente,93.47826086956522,34.0
+Trabajador_04,38,Desconocido,85.0,No especificado,92.3913043478261,38.0
+Trabajador_04,47,Barranquilla,78.0,Buen trabajo,84.78260869565217,47.0
+Trabajador_02,35,Medellín,92.0,A mejorar,100.0,35.0
+Trabajador_03,48,Cali,86.0,Buen trabajo,93.47826086956522,48.0
+Trabajador_04,55,Bogotá,86.0,No especificado,93.47826086956522,55.00000000000001
+Trabajador_03,49,Bogotá,90.0,Excelente,97.82608695652173,49.0
+Trabajador_01,28,Bogotá,92.0,Excelente,100.0,28.000000000000004
+Trabajador_05,42,Medellín,85.0,Buen trabajo,92.3913043478261,42.0
+Trabajador_01,50,Medellín,78.0,No especificado,84.78260869565217,50.0
+Trabajador_01,55,Bogotá,90.0,Excelente,97.82608695652173,55.00000000000001
+Trabajador_02,58,Medellín,78.0,No especificado,84.78260869565217,57.99999999999999
+Trabajador_01,28,Desconocido,85.0,No especificado,92.3913043478261,28.000000000000004
+Trabajador_01,39,Medellín,86.0,Sin comentarios,93.47826086956522,39.0
+Trabajador_05,41,Bogotá,86.0,No especificado,93.47826086956522,41.0
+Trabajador_05,58,Medellín,78.0,No especificado,84.78260869565217,57.99999999999999
+Trabajador_01,34,Medellín,92.0,Buen trabajo,100.0,34.0
+Trabajador_05,29,Medellín,92.0,Sin comentarios,100.0,28.999999999999996
+Trabajador_01,49,Cali,86.0,A mejorar,93.47826086956522,49.0
+Trabajador_01,32,Desconocido,78.0,Buen trabajo,84.78260869565217,32.0
+Trabajador_02,33,Barranquilla,78.0,A mejorar,84.78260869565217,33.0
+Trabajador_04,39,Barranquilla,85.0,Excelente,92.3913043478261,39.0
+Trabajador_01,45,Cali,78.0,A mejorar,84.78260869565217,45.0
+Trabajador_03,37,Medellín,90.0,No especificado,97.82608695652173,37.0
+Trabajador_04,50,Cali,85.0,A mejorar,92.3913043478261,50.0
+Trabajador_04,27,Cali,90.0,Buen trabajo,97.82608695652173,27.0
+Trabajador_04,57,Bogotá,86.0,Buen trabajo,93.47826086956522,56.99999999999999
+Trabajador_02,49,Desconocido,92.0,A mejorar,100.0,49.0
+Trabajador_01,50,Barranquilla,86.0,Buen trabajo,93.47826086956522,50.0
+Trabajador_02,19,Medellín,92.0,Buen trabajo,100.0,19.0
+Trabajador_01,50,Barranquilla,86.0,A mejorar,93.47826086956522,50.0
+Trabajador_02,50,Barranquilla,78.0,Sin comentarios,84.78260869565217,50.0
+Trabajador_03,30,Barranquilla,92.0,Excelente,100.0,30.0
+Trabajador_02,47,Barranquilla,85.0,Buen trabajo,92.3913043478261,47.0
+Trabajador_05,50,Cali,90.0,A mejorar,97.82608695652173,50.0
+Trabajador_03,30,Desconocido,85.0,Buen trabajo,92.3913043478261,30.0
+Trabajador_02,43,Bogotá,90.0,No especificado,97.82608695652173,43.0
+Trabajador_04,39,Medellín,90.0,Buen trabajo,97.82608695652173,39.0
+Trabajador_05,56,Barranquilla,86.0,Buen trabajo,93.47826086956522,56.00000000000001
+Trabajador_05,19,Medellín,92.0,Sin comentarios,100.0,19.0
+Trabajador_05,55,Bogotá,92.0,A mejorar,100.0,55.00000000000001
+Trabajador_03,56,Medellín,90.0,Buen trabajo,97.82608695652173,56.00000000000001
+Trabajador_02,43,Bogotá,78.0,Sin comentarios,84.78260869565217,43.0
+Trabajador_02,32,Cali,78.0,Excelente,84.78260869565217,32.0
+Trabajador_04,51,Barranquilla,85.0,Sin comentarios,92.3913043478261,51.0
+Trabajador_04,59,Bogotá,85.0,Sin comentarios,92.3913043478261,59.0
+Trabajador_05,57,Medellín,86.0,Sin comentarios,93.47826086956522,56.99999999999999
+Trabajador_04,28,Barranquilla,90.0,Buen trabajo,97.82608695652173,28.000000000000004
+Trabajador_03,20,Cali,85.0,Buen trabajo,92.3913043478261,20.0
+Trabajador_02,23,Barranquilla,85.0,Excelente,92.3913043478261,23.0
+Trabajador_05,26,Bogotá,90.0,No especificado,97.82608695652173,26.0
+Trabajador_04,23,Desconocido,86.0,No especificado,93.47826086956522,23.0
+Trabajador_03,26,Medellín,85.0,No especificado,92.3913043478261,26.0
+Trabajador_03,56,Cali,86.0,Excelente,93.47826086956522,56.00000000000001
+Trabajador_04,48,Cali,92.0,No especificado,100.0,48.0
+Trabajador_02,49,Desconocido,86.0,No especificado,93.47826086956522,49.0
+Trabajador_04,58,Cali,78.0,Sin comentarios,84.78260869565217,57.99999999999999
+Trabajador_05,29,Cali,78.0,Buen trabajo,84.78260869565217,28.999999999999996
+Trabajador_04,25,Barranquilla,86.0,Buen trabajo,93.47826086956522,25.0
+Trabajador_03,25,Medellín,78.0,Sin comentarios,84.78260869565217,25.0
+Trabajador_04,45,Barranquilla,92.0,Sin comentarios,100.0,45.0
+Trabajador_02,37,Barranquilla,90.0,Sin comentarios,97.82608695652173,37.0
+Trabajador_01,24,Bogotá,78.0,Buen trabajo,84.78260869565217,24.0
+Trabajador_04,28,Barranquilla,78.0,No especificado,84.78260869565217,28.000000000000004
+Trabajador_02,37,Desconocido,86.0,Sin comentarios,93.47826086956522,37.0
+Trabajador_02,33,Desconocido,92.0,Excelente,100.0,33.0
+Trabajador_03,21,Bogotá,90.0,Sin comentarios,97.82608695652173,21.0
+Trabajador_02,23,Medellín,86.0,A mejorar,93.47826086956522,23.0
+Trabajador_02,39,Medellín,86.0,Sin comentarios,93.47826086956522,39.0
+Trabajador_02,43,Barranquilla,92.0,Buen trabajo,100.0,43.0
+Trabajador_02,20,Barranquilla,90.0,Sin comentarios,97.82608695652173,20.0
+Trabajador_05,58,Barranquilla,92.0,A mejorar,100.0,57.99999999999999
+Trabajador_05,59,Medellín,90.0,Excelente,97.82608695652173,59.0
+Trabajador_03,31,Cali,92.0,No especificado,100.0,31.0
+Trabajador_04,28,Desconocido,86.0,Sin comentarios,93.47826086956522,28.000000000000004
+Trabajador_02,35,Cali,86.0,A mejorar,93.47826086956522,35.0
+Trabajador_04,29,Cali,85.0,A mejorar,92.3913043478261,28.999999999999996
+Trabajador_04,40,Medellín,78.0,Excelente,84.78260869565217,40.0
+Trabajador_03,29,Cali,92.0,Buen trabajo,100.0,28.999999999999996
+Trabajador_02,30,Bogotá,85.0,Sin comentarios,92.3913043478261,30.0
+Trabajador_02,42,Barranquilla,78.0,A mejorar,84.78260869565217,42.0
+Trabajador_01,36,Bogotá,92.0,Excelente,100.0,36.0
+Trabajador_04,53,Desconocido,90.0,No especificado,97.82608695652173,53.0
+Trabajador_04,25,Barranquilla,78.0,A mejorar,84.78260869565217,25.0
+Trabajador_05,46,Cali,86.0,Excelente,93.47826086956522,46.0
+Trabajador_01,49,Desconocido,85.0,Buen trabajo,92.3913043478261,49.0
+Trabajador_05,35,Barranquilla,78.0,Buen trabajo,84.78260869565217,35.0
+Trabajador_05,23,Cali,78.0,A mejorar,84.78260869565217,23.0
+Trabajador_05,35,Bogotá,86.0,A mejorar,93.47826086956522,35.0
+Trabajador_03,36,Barranquilla,92.0,Sin comentarios,100.0,36.0
+Trabajador_03,39,Cali,90.0,Excelente,97.82608695652173,39.0
+Trabajador_05,54,Bogotá,86.0,A mejorar,93.47826086956522,54.0
+Trabajador_01,49,Desconocido,90.0,Sin comentarios,97.82608695652173,49.0
+Trabajador_04,58,Desconocido,92.0,Sin comentarios,100.0,57.99999999999999
+Trabajador_01,20,Desconocido,78.0,A mejorar,84.78260869565217,20.0
+Trabajador_02,45,Desconocido,90.0,Buen trabajo,97.82608695652173,45.0
+Trabajador_03,27,Medellín,85.0,Excelente,92.3913043478261,27.0
+Trabajador_04,52,Barranquilla,85.0,Excelente,92.3913043478261,52.0
+Trabajador_04,46,Barranquilla,86.0,Buen trabajo,93.47826086956522,46.0
+Trabajador_02,32,Medellín,92.0,A mejorar,100.0,32.0
+Trabajador_02,50,Cali,86.0,Excelente,93.47826086956522,50.0
+Trabajador_05,24,Cali,86.0,A mejorar,93.47826086956522,24.0
+Trabajador_03,29,Desconocido,86.0,A mejorar,93.47826086956522,28.999999999999996
+Trabajador_03,47,Bogotá,85.0,Sin comentarios,92.3913043478261,47.0
+Trabajador_05,48,Bogotá,86.0,A mejorar,93.47826086956522,48.0
+Trabajador_05,41,Desconocido,85.0,No especificado,92.3913043478261,41.0
+Trabajador_05,37,Bogotá,92.0,Buen trabajo,100.0,37.0
+Trabajador_05,54,Barranquilla,86.0,Excelente,93.47826086956522,54.0
+Trabajador_03,21,Medellín,85.0,Sin comentarios,92.3913043478261,21.0
+Trabajador_03,45,Medellín,90.0,Excelente,97.82608695652173,45.0
+Trabajador_05,37,Desconocido,86.0,Excelente,93.47826086956522,37.0
+Trabajador_01,41,Cali,86.0,Buen trabajo,93.47826086956522,41.0
+Trabajador_04,49,Desconocido,92.0,Excelente,100.0,49.0
+Trabajador_04,58,Barranquilla,78.0,A mejorar,84.78260869565217,57.99999999999999
+Trabajador_01,53,Desconocido,78.0,Excelente,84.78260869565217,53.0
+Trabajador_05,51,Bogotá,92.0,Sin comentarios,100.0,51.0
+Trabajador_03,53,Barranquilla,92.0,Sin comentarios,100.0,53.0
+Trabajador_02,32,Cali,78.0,Sin comentarios,84.78260869565217,32.0
+Trabajador_01,53,Barranquilla,85.0,Sin comentarios,92.3913043478261,53.0
+Trabajador_05,23,Bogotá,86.0,Buen trabajo,93.47826086956522,23.0
+Trabajador_04,56,Cali,86.0,Sin comentarios,93.47826086956522,56.00000000000001
+Trabajador_05,59,Medellín,90.0,A mejorar,97.82608695652173,59.0
+Trabajador_04,29,Barranquilla,90.0,Buen trabajo,97.82608695652173,28.999999999999996
+Trabajador_01,20,Barranquilla,86.0,No especificado,93.47826086956522,20.0
+Trabajador_01,35,Bogotá,85.0,No especificado,92.3913043478261,35.0
+Trabajador_02,57,Desconocido,78.0,Excelente,84.78260869565217,56.99999999999999
+Trabajador_05,38,Medellín,78.0,Excelente,84.78260869565217,38.0
+Trabajador_02,32,Cali,85.0,Excelente,92.3913043478261,32.0
+Trabajador_05,50,Barranquilla,78.0,A mejorar,84.78260869565217,50.0
+Trabajador_02,52,Barranquilla,92.0,A mejorar,100.0,52.0
+Trabajador_03,43,Medellín,86.0,A mejorar,93.47826086956522,43.0
+Trabajador_03,25,Desconocido,86.0,Buen trabajo,93.47826086956522,25.0
+Trabajador_03,53,Barranquilla,85.0,Buen trabajo,92.3913043478261,53.0
+Trabajador_03,47,Medellín,78.0,Excelente,84.78260869565217,47.0
+Trabajador_04,40,Bogotá,90.0,Sin comentarios,97.82608695652173,40.0
+Trabajador_03,59,Desconocido,90.0,Excelente,97.82608695652173,59.0
+Trabajador_01,31,Cali,78.0,No especificado,84.78260869565217,31.0
+Trabajador_01,31,Barranquilla,90.0,Buen trabajo,97.82608695652173,31.0
+Trabajador_04,38,Medellín,85.0,A mejorar,92.3913043478261,38.0
+Trabajador_03,54,Bogotá,85.0,Buen trabajo,92.3913043478261,54.0
+Trabajador_03,22,Cali,78.0,A mejorar,84.78260869565217,22.0
+Trabajador_03,55,Medellín,90.0,No especificado,97.82608695652173,55.00000000000001
+Trabajador_02,58,Desconocido,85.0,No especificado,92.3913043478261,57.99999999999999
+Trabajador_05,31,Cali,85.0,Buen trabajo,92.3913043478261,31.0
+Trabajador_02,56,Bogotá,92.0,A mejorar,100.0,56.00000000000001
+Trabajador_05,42,Bogotá,92.0,No especificado,100.0,42.0
+Trabajador_03,37,Desconocido,85.0,Excelente,92.3913043478261,37.0
+Trabajador_03,19,Barranquilla,78.0,Excelente,84.78260869565217,19.0
+Trabajador_02,56,Cali,86.0,A mejorar,93.47826086956522,56.00000000000001
+Trabajador_02,23,Cali,86.0,Buen trabajo,93.47826086956522,23.0
+Trabajador_05,38,Cali,85.0,No especificado,92.3913043478261,38.0
+Trabajador_01,42,Bogotá,85.0,Buen trabajo,92.3913043478261,42.0
+Trabajador_05,45,Barranquilla,85.0,Excelente,92.3913043478261,45.0
+Trabajador_02,19,Desconocido,78.0,No especificado,84.78260869565217,19.0
+Trabajador_02,52,Medellín,92.0,Buen trabajo,100.0,52.0
+Trabajador_04,54,Medellín,85.0,Sin comentarios,92.3913043478261,54.0
+Trabajador_02,22,Cali,85.0,A mejorar,92.3913043478261,22.0
+Trabajador_04,18,Barranquilla,90.0,A mejorar,97.82608695652173,18.0
+Trabajador_01,57,Bogotá,78.0,Sin comentarios,84.78260869565217,56.99999999999999
+Trabajador_05,29,Barranquilla,85.0,Excelente,92.3913043478261,28.999999999999996
+Trabajador_05,53,Barranquilla,90.0,No especificado,97.82608695652173,53.0
+Trabajador_04,40,Bogotá,86.0,A mejorar,93.47826086956522,40.0
+Trabajador_05,48,Cali,85.0,Sin comentarios,92.3913043478261,48.0
+Trabajador_02,28,Barranquilla,85.0,Sin comentarios,92.3913043478261,28.000000000000004
+Trabajador_03,27,Medellín,90.0,Excelente,97.82608695652173,27.0
+Trabajador_04,20,Bogotá,78.0,Excelente,84.78260869565217,20.0
+Trabajador_05,31,Desconocido,85.0,Buen trabajo,92.3913043478261,31.0
+Trabajador_04,33,Cali,86.0,A mejorar,93.47826086956522,33.0
+Trabajador_04,27,Bogotá,85.0,Buen trabajo,92.3913043478261,27.0
+Trabajador_03,46,Desconocido,86.0,Sin comentarios,93.47826086956522,46.0
+Trabajador_02,27,Desconocido,92.0,No especificado,100.0,27.0
+Trabajador_04,29,Barranquilla,92.0,No especificado,100.0,28.999999999999996
+Trabajador_05,47,Barranquilla,86.0,Excelente,93.47826086956522,47.0
+Trabajador_01,58,Barranquilla,78.0,No especificado,84.78260869565217,57.99999999999999
+Trabajador_04,18,Bogotá,85.0,No especificado,92.3913043478261,18.0
+Trabajador_04,22,Bogotá,85.0,No especificado,92.3913043478261,22.0
+Trabajador_03,37,Cali,92.0,Sin comentarios,100.0,37.0
+Trabajador_02,25,Barranquilla,86.0,No especificado,93.47826086956522,25.0
+Trabajador_01,29,Desconocido,85.0,No especificado,92.3913043478261,28.999999999999996
+Trabajador_05,18,Medellín,85.0,No especificado,92.3913043478261,18.0
+Trabajador_01,37,Cali,78.0,Buen trabajo,84.78260869565217,37.0
+Trabajador_05,45,Bogotá,90.0,Sin comentarios,97.82608695652173,45.0
+Trabajador_02,54,Cali,92.0,Excelente,100.0,54.0
+Trabajador_05,54,Cali,92.0,Buen trabajo,100.0,54.0
+Trabajador_03,29,Cali,90.0,A mejorar,97.82608695652173,28.999999999999996
+Trabajador_03,54,Cali,85.0,Sin comentarios,92.3913043478261,54.0
+Trabajador_03,45,Medellín,78.0,Sin comentarios,84.78260869565217,45.0
+Trabajador_03,32,Barranquilla,78.0,A mejorar,84.78260869565217,32.0
+Trabajador_01,23,Desconocido,92.0,A mejorar,100.0,23.0
+Trabajador_02,37,Cali,86.0,A mejorar,93.47826086956522,37.0
+Trabajador_05,31,Cali,90.0,Excelente,97.82608695652173,31.0
+Trabajador_05,19,Cali,85.0,No especificado,92.3913043478261,19.0
+Trabajador_03,26,Barranquilla,90.0,Sin comentarios,97.82608695652173,26.0
+Trabajador_03,54,Bogotá,86.0,No especificado,93.47826086956522,54.0
+Trabajador_02,43,Medellín,78.0,A mejorar,84.78260869565217,43.0
+Trabajador_01,46,Bogotá,86.0,Excelente,93.47826086956522,46.0
+Trabajador_05,18,Cali,78.0,Buen trabajo,84.78260869565217,18.0
+Trabajador_04,52,Cali,85.0,Excelente,92.3913043478261,52.0
+Trabajador_04,23,Cali,85.0,No especificado,92.3913043478261,23.0
+Trabajador_05,54,Medellín,85.0,Excelente,92.3913043478261,54.0
+Trabajador_01,22,Cali,78.0,A mejorar,84.78260869565217,22.0
+Trabajador_04,50,Bogotá,86.0,Buen trabajo,93.47826086956522,50.0
+Trabajador_04,31,Barranquilla,85.0,A mejorar,92.3913043478261,31.0
+Trabajador_02,29,Barranquilla,86.0,Buen trabajo,93.47826086956522,28.999999999999996
+Trabajador_01,59,Desconocido,78.0,No especificado,84.78260869565217,59.0
+Trabajador_04,37,Bogotá,86.0,Buen trabajo,93.47826086956522,37.0
+Trabajador_01,41,Cali,78.0,Buen trabajo,84.78260869565217,41.0
+Trabajador_05,51,Barranquilla,78.0,Buen trabajo,84.78260869565217,51.0
+Trabajador_03,42,Bogotá,92.0,Excelente,100.0,42.0
+Trabajador_02,56,Cali,78.0,No especificado,84.78260869565217,56.00000000000001
+Trabajador_05,48,Barranquilla,90.0,Buen trabajo,97.82608695652173,48.0
+Trabajador_01,40,Desconocido,85.0,Sin comentarios,92.3913043478261,40.0
+Trabajador_05,55,Desconocido,92.0,No especificado,100.0,55.00000000000001
+Trabajador_04,37,Barranquilla,92.0,Buen trabajo,100.0,37.0
+Trabajador_01,40,Bogotá,92.0,Buen trabajo,100.0,40.0
+Trabajador_03,33,Bogotá,90.0,Excelente,97.82608695652173,33.0
+Trabajador_05,59,Bogotá,78.0,No especificado,84.78260869565217,59.0
+Trabajador_04,25,Barranquilla,85.0,Buen trabajo,92.3913043478261,25.0
+Trabajador_02,38,Bogotá,86.0,Buen trabajo,93.47826086956522,38.0
+Trabajador_01,18,Cali,78.0,No especificado,84.78260869565217,18.0
+Trabajador_05,25,Desconocido,90.0,Sin comentarios,97.82608695652173,25.0
+Trabajador_05,46,Cali,78.0,No especificado,84.78260869565217,46.0
+Trabajador_03,49,Bogotá,78.0,No especificado,84.78260869565217,49.0
+Trabajador_03,55,Cali,90.0,Sin comentarios,97.82608695652173,55.00000000000001
+Trabajador_02,22,Bogotá,92.0,No especificado,100.0,22.0
+Trabajador_02,39,Barranquilla,92.0,Buen trabajo,100.0,39.0
+Trabajador_04,51,Cali,85.0,No especificado,92.3913043478261,51.0
+Trabajador_04,18,Barranquilla,85.0,Sin comentarios,92.3913043478261,18.0
+Trabajador_02,43,Barranquilla,92.0,A mejorar,100.0,43.0
+Trabajador_02,27,Medellín,86.0,No especificado,93.47826086956522,27.0
+Trabajador_01,47,Bogotá,78.0,Excelente,84.78260869565217,47.0
+Trabajador_03,35,Desconocido,86.0,Buen trabajo,93.47826086956522,35.0
+Trabajador_04,34,Bogotá,78.0,Buen trabajo,84.78260869565217,34.0
+Trabajador_03,43,Desconocido,92.0,Excelente,100.0,43.0
+Trabajador_03,25,Bogotá,85.0,Excelente,92.3913043478261,25.0
+Trabajador_02,57,Barranquilla,85.0,No especificado,92.3913043478261,56.99999999999999
+Trabajador_01,29,Cali,86.0,Excelente,93.47826086956522,28.999999999999996
+Trabajador_05,44,Cali,85.0,A mejorar,92.3913043478261,44.0
+Trabajador_01,25,Medellín,92.0,Sin comentarios,100.0,25.0
+Trabajador_01,42,Desconocido,86.0,Excelente,93.47826086956522,42.0
+Trabajador_03,21,Desconocido,78.0,Excelente,84.78260869565217,21.0
+Trabajador_01,50,Desconocido,85.0,A mejorar,92.3913043478261,50.0
+Trabajador_04,18,Barranquilla,90.0,Buen trabajo,97.82608695652173,18.0
+Trabajador_03,36,Desconocido,85.0,Buen trabajo,92.3913043478261,36.0
+Trabajador_04,48,Cali,78.0,No especificado,84.78260869565217,48.0
+Trabajador_05,33,Barranquilla,86.0,A mejorar,93.47826086956522,33.0
+Trabajador_05,22,Desconocido,90.0,Sin comentarios,97.82608695652173,22.0
+Trabajador_03,58,Desconocido,92.0,A mejorar,100.0,57.99999999999999
+Trabajador_02,43,Bogotá,85.0,Sin comentarios,92.3913043478261,43.0
+Trabajador_01,45,Desconocido,86.0,Buen trabajo,93.47826086956522,45.0
+Trabajador_02,19,Bogotá,92.0,Sin comentarios,100.0,19.0
+Trabajador_05,23,Barranquilla,78.0,Sin comentarios,84.78260869565217,23.0
+Trabajador_01,26,Cali,86.0,A mejorar,93.47826086956522,26.0
+Trabajador_03,50,Bogotá,92.0,A mejorar,100.0,50.0
+Trabajador_01,58,Medellín,86.0,Sin comentarios,93.47826086956522,57.99999999999999
+Trabajador_04,42,Bogotá,90.0,Excelente,97.82608695652173,42.0
+Trabajador_01,30,Desconocido,90.0,A mejorar,97.82608695652173,30.0
+Trabajador_04,26,Barranquilla,85.0,No especificado,92.3913043478261,26.0
+Trabajador_01,30,Barranquilla,85.0,No especificado,92.3913043478261,30.0
+Trabajador_04,48,Bogotá,90.0,Buen trabajo,97.82608695652173,48.0
+Trabajador_05,58,Cali,86.0,Sin comentarios,93.47826086956522,57.99999999999999
+Trabajador_02,28,Medellín,90.0,Excelente,97.82608695652173,28.000000000000004
+Trabajador_03,21,Barranquilla,85.0,Buen trabajo,92.3913043478261,21.0
+Trabajador_01,51,Desconocido,90.0,Sin comentarios,97.82608695652173,51.0
+Trabajador_02,55,Desconocido,90.0,A mejorar,97.82608695652173,55.00000000000001
+Trabajador_03,21,Cali,86.0,No especificado,93.47826086956522,21.0
+Trabajador_03,55,Barranquilla,92.0,Excelente,100.0,55.00000000000001
+Trabajador_04,36,Bogotá,85.0,No especificado,92.3913043478261,36.0
+Trabajador_05,23,Desconocido,86.0,A mejorar,93.47826086956522,23.0
+Trabajador_05,51,Cali,90.0,Sin comentarios,97.82608695652173,51.0
+Trabajador_02,35,Barranquilla,90.0,A mejorar,97.82608695652173,35.0
+Trabajador_05,38,Barranquilla,92.0,A mejorar,100.0,38.0
+Trabajador_01,58,Barranquilla,85.0,No especificado,92.3913043478261,57.99999999999999
+Trabajador_05,40,Barranquilla,85.0,Excelente,92.3913043478261,40.0
+Trabajador_02,36,Barranquilla,78.0,A mejorar,84.78260869565217,36.0
+Trabajador_05,28,Desconocido,85.0,No especificado,92.3913043478261,28.000000000000004
+Trabajador_01,18,Cali,92.0,Excelente,100.0,18.0
+Trabajador_04,41,Barranquilla,78.0,Sin comentarios,84.78260869565217,41.0
+Trabajador_02,24,Medellín,78.0,Sin comentarios,84.78260869565217,24.0
+Trabajador_04,42,Medellín,90.0,Buen trabajo,97.82608695652173,42.0
+Trabajador_04,38,Cali,90.0,No especificado,97.82608695652173,38.0
+Trabajador_04,32,Bogotá,85.0,Excelente,92.3913043478261,32.0
+Trabajador_03,18,Bogotá,78.0,A mejorar,84.78260869565217,18.0
+Trabajador_03,29,Bogotá,90.0,Sin comentarios,97.82608695652173,28.999999999999996
+Trabajador_04,24,Medellín,92.0,Excelente,100.0,24.0
+Trabajador_02,32,Bogotá,90.0,No especificado,97.82608695652173,32.0
+Trabajador_01,38,Desconocido,90.0,Buen trabajo,97.82608695652173,38.0
+Trabajador_05,46,Medellín,78.0,Excelente,84.78260869565217,46.0
+Trabajador_02,42,Cali,86.0,Excelente,93.47826086956522,42.0
+Trabajador_03,50,Cali,92.0,Excelente,100.0,50.0
+Trabajador_04,49,Barranquilla,78.0,No especificado,84.78260869565217,49.0
+Trabajador_05,52,Medellín,85.0,No especificado,92.3913043478261,52.0
+Trabajador_01,55,Bogotá,92.0,No especificado,100.0,55.00000000000001
+Trabajador_03,43,Bogotá,92.0,A mejorar,100.0,43.0
+Trabajador_03,28,Desconocido,78.0,Excelente,84.78260869565217,28.000000000000004
+Trabajador_04,52,Desconocido,92.0,Sin comentarios,100.0,52.0
+Trabajador_01,25,Bogotá,78.0,No especificado,84.78260869565217,25.0
+Trabajador_02,31,Cali,90.0,No especificado,97.82608695652173,31.0
+Trabajador_03,27,Cali,86.0,Excelente,93.47826086956522,27.0
+Trabajador_04,19,Desconocido,90.0,No especificado,97.82608695652173,19.0
+Trabajador_02,26,Barranquilla,78.0,A mejorar,84.78260869565217,26.0
+Trabajador_01,20,Bogotá,78.0,A mejorar,84.78260869565217,20.0
+Trabajador_03,38,Desconocido,90.0,No especificado,97.82608695652173,38.0
+Trabajador_02,43,Desconocido,85.0,Excelente,92.3913043478261,43.0
+Trabajador_02,25,Bogotá,85.0,Excelente,92.3913043478261,25.0
+Trabajador_02,19,Bogotá,85.0,Excelente,92.3913043478261,19.0
+Trabajador_03,23,Cali,78.0,Buen trabajo,84.78260869565217,23.0
+Trabajador_03,45,Barranquilla,92.0,No especificado,100.0,45.0
+Trabajador_05,46,Barranquilla,78.0,No especificado,84.78260869565217,46.0
+Trabajador_01,43,Bogotá,92.0,No especificado,100.0,43.0
+Trabajador_04,42,Medellín,90.0,Sin comentarios,97.82608695652173,42.0
+Trabajador_02,29,Desconocido,86.0,Sin comentarios,93.47826086956522,28.999999999999996
+Trabajador_05,22,Desconocido,92.0,Excelente,100.0,22.0
+Trabajador_04,51,Bogotá,85.0,Sin comentarios,92.3913043478261,51.0
+Trabajador_05,54,Medellín,78.0,Sin comentarios,84.78260869565217,54.0
+Trabajador_03,32,Cali,90.0,Buen trabajo,97.82608695652173,32.0
+Trabajador_02,53,Bogotá,85.0,A mejorar,92.3913043478261,53.0
+Trabajador_04,32,Bogotá,90.0,A mejorar,97.82608695652173,32.0
+Trabajador_04,40,Desconocido,86.0,Buen trabajo,93.47826086956522,40.0
+Trabajador_04,23,Bogotá,78.0,Buen trabajo,84.78260869565217,23.0
+Trabajador_04,38,Bogotá,78.0,Sin comentarios,84.78260869565217,38.0
+Trabajador_04,40,Bogotá,86.0,No especificado,93.47826086956522,40.0
+Trabajador_05,33,Desconocido,78.0,Sin comentarios,84.78260869565217,33.0
+Trabajador_02,32,Cali,92.0,Buen trabajo,100.0,32.0
+Trabajador_03,42,Cali,90.0,A mejorar,97.82608695652173,42.0
+Trabajador_03,28,Desconocido,86.0,No especificado,93.47826086956522,28.000000000000004
+Trabajador_03,32,Cali,92.0,Sin comentarios,100.0,32.0
+Trabajador_05,21,Cali,85.0,Excelente,92.3913043478261,21.0
+Trabajador_01,38,Cali,85.0,Sin comentarios,92.3913043478261,38.0
+Trabajador_02,30,Desconocido,86.0,Buen trabajo,93.47826086956522,30.0
+Trabajador_04,39,Desconocido,92.0,A mejorar,100.0,39.0
+Trabajador_01,36,Bogotá,85.0,A mejorar,92.3913043478261,36.0
+Trabajador_03,51,Barranquilla,85.0,Buen trabajo,92.3913043478261,51.0
+Trabajador_01,31,Cali,92.0,Excelente,100.0,31.0
+Trabajador_02,21,Barranquilla,78.0,Buen trabajo,84.78260869565217,21.0
+Trabajador_04,44,Desconocido,85.0,Sin comentarios,92.3913043478261,44.0
+Trabajador_04,46,Desconocido,90.0,Buen trabajo,97.82608695652173,46.0
+Trabajador_02,45,Desconocido,92.0,Buen trabajo,100.0,45.0
+Trabajador_02,52,Barranquilla,85.0,Excelente,92.3913043478261,52.0
+Trabajador_03,25,Desconocido,86.0,Sin comentarios,93.47826086956522,25.0
+Trabajador_04,33,Bogotá,90.0,No especificado,97.82608695652173,33.0
+Trabajador_01,59,Desconocido,85.0,No especificado,92.3913043478261,59.0
+Trabajador_05,53,Medellín,90.0,A mejorar,97.82608695652173,53.0
+Trabajador_05,47,Barranquilla,90.0,Buen trabajo,97.82608695652173,47.0
+Trabajador_02,35,Medellín,78.0,A mejorar,84.78260869565217,35.0
+Trabajador_03,19,Desconocido,90.0,Excelente,97.82608695652173,19.0
+Trabajador_05,30,Bogotá,78.0,No especificado,84.78260869565217,30.0
+Trabajador_04,21,Cali,92.0,Buen trabajo,100.0,21.0
+Trabajador_02,43,Desconocido,78.0,Excelente,84.78260869565217,43.0
+Trabajador_01,42,Bogotá,86.0,Excelente,93.47826086956522,42.0
+Trabajador_01,28,Medellín,92.0,Excelente,100.0,28.000000000000004
+Trabajador_02,24,Medellín,92.0,Buen trabajo,100.0,24.0
+Trabajador_02,48,Medellín,86.0,Buen trabajo,93.47826086956522,48.0
+Trabajador_02,38,Barranquilla,78.0,Sin comentarios,84.78260869565217,38.0
+Trabajador_01,56,Bogotá,85.0,A mejorar,92.3913043478261,56.00000000000001
+Trabajador_01,30,Barranquilla,78.0,Excelente,84.78260869565217,30.0
+Trabajador_02,48,Medellín,90.0,Excelente,97.82608695652173,48.0
+Trabajador_05,24,Desconocido,78.0,Sin comentarios,84.78260869565217,24.0
+Trabajador_03,59,Cali,92.0,Sin comentarios,100.0,59.0
+Trabajador_03,59,Barranquilla,85.0,Sin comentarios,92.3913043478261,59.0
+Trabajador_03,53,Barranquilla,78.0,No especificado,84.78260869565217,53.0
+Trabajador_01,37,Bogotá,85.0,No especificado,92.3913043478261,37.0
+Trabajador_01,21,Bogotá,85.0,No especificado,92.3913043478261,21.0
+Trabajador_05,24,Barranquilla,90.0,No especificado,97.82608695652173,24.0
+Trabajador_03,18,Medellín,90.0,Excelente,97.82608695652173,18.0
+Trabajador_03,59,Cali,92.0,A mejorar,100.0,59.0
+Trabajador_02,30,Bogotá,86.0,Buen trabajo,93.47826086956522,30.0
+Trabajador_03,38,Desconocido,86.0,Excelente,93.47826086956522,38.0
+Trabajador_05,39,Bogotá,92.0,Sin comentarios,100.0,39.0
+Trabajador_05,45,Medellín,85.0,Sin comentarios,92.3913043478261,45.0
+Trabajador_03,26,Medellín,85.0,Buen trabajo,92.3913043478261,26.0
+Trabajador_01,43,Cali,86.0,Sin comentarios,93.47826086956522,43.0
+Trabajador_05,26,Cali,78.0,Excelente,84.78260869565217,26.0
+Trabajador_02,32,Desconocido,90.0,Sin comentarios,97.82608695652173,32.0
+Trabajador_05,27,Medellín,78.0,No especificado,84.78260869565217,27.0
+Trabajador_04,41,Medellín,86.0,Sin comentarios,93.47826086956522,41.0
+Trabajador_04,59,Cali,90.0,Excelente,97.82608695652173,59.0
+Trabajador_01,25,Bogotá,78.0,Buen trabajo,84.78260869565217,25.0
+Trabajador_03,41,Bogotá,90.0,A mejorar,97.82608695652173,41.0
